@@ -1,0 +1,13 @@
+MCuti:
+  MCuti_1:
+    jenis_cuti: 'Cuti Tahunan'
+  MCuti_2:
+    jenis_cuti: 'Cuti Besar'
+  MCuti_3:
+    jenis_cuti: 'Cuti Sakit'
+  MCuti_4:
+    jenis_cuti: 'Cuti Bersalin'
+  MCuti_5:
+    jenis_cuti: 'Cuti Karena Alasan Penting'
+  MCuti_6:
+    jenis_cuti: 'Cuti di Luar Tanggungan Negara b'

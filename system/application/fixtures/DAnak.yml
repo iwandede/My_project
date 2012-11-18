@@ -1,0 +1,21 @@
+DAnak:
+  DAnak_1:
+    nama: 'Luh Putu Ayu Riska W'
+    tanggal_lahir: '1982-05-16'
+    jenis_kelamin: true
+    DPegawai: DPegawai_3
+  DAnak_2:
+    nama: 'Made Wahyudiyagnya'
+    tanggal_lahir: '1994-07-04'
+    jenis_kelamin: false
+    DPegawai: DPegawai_3
+  DAnak_3:
+    nama: 'Armeidi Yuda Rachman'
+    tanggal_lahir: '1990-05-28'
+    jenis_kelamin: false
+    DPegawai: DPegawai_1
+  DAnak_4:
+    nama: 'Hafid Yuda Matinu'
+    tanggal_lahir: '1992-03-03'
+    jenis_kelamin: false
+    DPegawai: DPegawai_1

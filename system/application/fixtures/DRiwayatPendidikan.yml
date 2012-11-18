@@ -1,0 +1,120 @@
+DRiwayatPendidikan:
+  DRiwayatPendidikan_1:
+    DPegawai: DPegawai_1
+    lembaga: 'Univ. Brawijaya Malang'
+    MPendidikanFormal: MPendidikanFormal_7
+    jurusan: 'Ekonomi Manajemen '
+    nomor_ijazah: null
+    tanggal_ijazah: '1982-01-01'
+  DRiwayatPendidikan_2:
+    DPegawai: DPegawai_3
+    lembaga: ITS
+    MPendidikanFormal: MPendidikanFormal_8
+    jurusan: FTSP/MPK
+    nomor_ijazah: null
+    tanggal_ijazah: '2003-01-01'
+  DRiwayatPendidikan_3:
+    DPegawai: DPegawai_2
+    lembaga: UNS
+    MPendidikanFormal: MPendidikanFormal_8
+    jurusan: 'Kependudukan dan LH'
+    nomor_ijazah: null
+    tanggal_ijazah: '2002-01-01'
+  DRiwayatPendidikan_4:
+    DPegawai: DPegawai_4
+    lembaga: STIA-LAN
+    MPendidikanFormal: MPendidikanFormal_7
+    jurusan: 'Adm Negara'
+    nomor_ijazah: null
+    tanggal_ijazah: '1988-01-01'
+  DRiwayatPendidikan_5:
+    DPegawai: DPegawai_5
+    lembaga: Univ
+    MPendidikanFormal: MPendidikanFormal_7
+    jurusan: 'Teknik Kimia'
+    nomor_ijazah: null
+    tanggal_ijazah: '1996-01-01'
+  DRiwayatPendidikan_6:
+    DPegawai: DPegawai_6
+    lembaga: 'Universitas Indonesia'
+    MPendidikanFormal: MPendidikanFormal_7
+    jurusan: Kimia
+    nomor_ijazah: null
+    tanggal_ijazah: '1979-01-01'
+  DRiwayatPendidikan_7:
+    DPegawai: DPegawai_7
+    lembaga: 'STAIN Cirebon'
+    MPendidikanFormal: MPendidikanFormal_8
+    jurusan: 'Manajemen Pendidikan Islam'
+    nomor_ijazah: null
+    tanggal_ijazah: '2008-01-01'
+  DRiwayatPendidikan_8:
+    DPegawai: DPegawai_8
+    lembaga: Univ
+    MPendidikanFormal: MPendidikanFormal_6
+    jurusan: 'Publisistik dan Humas'
+    nomor_ijazah: null
+    tanggal_ijazah: '1985-01-01'
+  DRiwayatPendidikan_9:
+    DPegawai: DPegawai_9
+    lembaga: 'American Univ. Washington DC'
+    MPendidikanFormal: MPendidikanFormal_8
+    jurusan: ' Master of Public Admiistration'
+    nomor_ijazah: null
+    tanggal_ijazah: '1993-01-01'
+  DRiwayatPendidikan_10:
+    DPegawai: DPegawai_10
+    lembaga: UGM
+    MPendidikanFormal: MPendidikanFormal_8
+    jurusan: 'Hukum Perdata'
+    nomor_ijazah: null
+    tanggal_ijazah: '1992-01-01'
+  DRiwayatPendidikan_11:
+    DPegawai: DPegawai_1
+    lembaga: null
+    MPendidikanFormal: MPendidikanFormal_1
+    jurusan: null
+    nomor_ijazah: null
+    tanggal_ijazah: '1969-01-01'
+  DRiwayatPendidikan_12:
+    DPegawai: DPegawai_1
+    lembaga: null
+    MPendidikanFormal: MPendidikanFormal_2
+    jurusan: null
+    nomor_ijazah: null
+    tanggal_ijazah: '1972-01-01'
+  DRiwayatPendidikan_13:
+    DPegawai: DPegawai_1
+    lembaga: null
+    MPendidikanFormal: MPendidikanFormal_3
+    jurusan: null
+    nomor_ijazah: null
+    tanggal_ijazah: '1976-01-01'
+  DRiwayatPendidikan_14:
+    DPegawai: DPegawai_2
+    lembaga: null
+    MPendidikanFormal: MPendidikanFormal_1
+    jurusan: null
+    nomor_ijazah: null
+    tanggal_ijazah: '1968-01-01'
+  DRiwayatPendidikan_15:
+    DPegawai: DPegawai_2
+    lembaga: null
+    MPendidikanFormal: MPendidikanFormal_2
+    jurusan: null
+    nomor_ijazah: null
+    tanggal_ijazah: '1971-01-01'
+  DRiwayatPendidikan_16:
+    DPegawai: DPegawai_2
+    lembaga: null
+    MPendidikanFormal: MPendidikanFormal_3
+    jurusan: null
+    nomor_ijazah: null
+    tanggal_ijazah: '1974-01-01'
+  DRiwayatPendidikan_17:
+    DPegawai: DPegawai_2
+    lembaga: null
+    MPendidikanFormal: MPendidikanFormal_7
+    jurusan: null
+    nomor_ijazah: null
+    tanggal_ijazah: '1983-01-01'

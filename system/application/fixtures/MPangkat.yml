@@ -1,0 +1,52 @@
+MPangkat:
+  MPangkat_1:
+    nama_pangkat: 'Juru Muda'
+    golongan_ruang: I/A
+  MPangkat_2:
+    nama_pangkat: 'Juru Muda Tingkat I'
+    golongan_ruang: I/B
+  MPangkat_3:
+    nama_pangkat: Juru
+    golongan_ruang: I/C
+  MPangkat_4:
+    nama_pangkat: 'Juru Tingkat I'
+    golongan_ruang: I/D
+  MPangkat_5:
+    nama_pangkat: 'Pengatur Muda'
+    golongan_ruang: II/A
+  MPangkat_6:
+    nama_pangkat: 'Pengatur Muda Tingkat I'
+    golongan_ruang: II/B
+  MPangkat_7:
+    nama_pangkat: Pengatur
+    golongan_ruang: II/C
+  MPangkat_8:
+    nama_pangkat: 'Pengatur Tingkat I'
+    golongan_ruang: II/D
+  MPangkat_9:
+    nama_pangkat: 'Penata Muda'
+    golongan_ruang: III/A
+  MPangkat_10:
+    nama_pangkat: 'Penata Muda Tingkat I'
+    golongan_ruang: III/B
+  MPangkat_11:
+    nama_pangkat: Penata
+    golongan_ruang: III/C
+  MPangkat_12:
+    nama_pangkat: 'Penata Tingkat I'
+    golongan_ruang: III/D
+  MPangkat_13:
+    nama_pangkat: Pembina
+    golongan_ruang: IV/A
+  MPangkat_14:
+    nama_pangkat: 'Pembina Tingkat I'
+    golongan_ruang: IV/B
+  MPangkat_15:
+    nama_pangkat: 'Pembina Utama Muda'
+    golongan_ruang: IV/C
+  MPangkat_16:
+    nama_pangkat: 'Pembina Utama Madya'
+    golongan_ruang: IV/D
+  MPangkat_17:
+    nama_pangkat: 'Pembina Utama'
+    golongan_ruang: IV/E

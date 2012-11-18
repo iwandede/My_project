@@ -1,0 +1,53 @@
+MJabatan:
+  MJabatan_1:
+    nama_eselon: 'Kepala Bidang Informasi pada Asisten Deputi Urusan Data dan Informasi Lingkungan'
+    MPangkat: MPangkat_13
+    eselon: III
+  MJabatan_2:
+    nama_eselon: 'Kepala Bidang Inventarisasi dan Pengembangan Sistem Informasi Lingkungan Hidup pada Pusat Pengelolaan Ekoregion Kalimantan'
+    MPangkat: MPangkat_13
+    eselon: IV
+  MJabatan_3:
+    nama_eselon: 'Kasubag Surat Menyurat'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_4:
+    nama_eselon: 'Kabag Umum'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_5:
+    nama_eselon: 'Kabid Masy Nelayan'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_6:
+    nama_eselon: 'Kepala Bidang Pengendalian Pemanfaatan Sumber Daya Pesisir dan Laut pada Asisten Deputi Urusan Pengendalian Kerusakan Pesisir dan Lau'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_7:
+    nama_eselon: 'Kepala Bidang Informasi pada Asisten Deputi Urusan Data dan Informasi Lingkungan'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_8:
+    nama_eselon: 'Kasubid. Kependudukan'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_9:
+    nama_eselon: 'Kabag. Lingmukot'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_10:
+    nama_eselon: 'Kabag. Lingmudes'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_11:
+    nama_eselon: 'Kabag. Lingkungan Alam'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_12:
+    nama_eselon: 'Kasubid. Penyuluhan'
+    MPangkat: MPangkat_9
+    eselon: IV
+  MJabatan_13:
+    nama_eselon: 'Kabid. PIPL Bapedal Wil.II'
+    MPangkat: MPangkat_9
+    eselon: IV

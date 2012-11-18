@@ -1,0 +1,7 @@
+MStatusPernikahan:
+  MStatusPernikahan_1:
+    status_pernikahan: 'Belum menikah'
+  MStatusPernikahan_2:
+    status_pernikahan: Menikah
+  MStatusPernikahan_3:
+    status_pernikahan: Cerai

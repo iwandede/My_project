@@ -1,0 +1,331 @@
+DPegawai:
+  DPegawai_1:
+    DUser: DUser_3
+    nama: 'Dra. Hardini Agustina'
+    nip: '010172752'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: Probolinggo
+    tanggal_lahir: '1956-08-05'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: AB
+    jenis_kelamin: true
+    alamat: 'Pd.Pekayon Indah Blok.DD/ 21Bekasi Selatan'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '48'
+    MStatusPernikahan: MStatusPernikahan_2
+    pasangan: 'Tuan Hardani'
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-07-04 09:58:05'
+    updated_at: '2011-07-24 21:56:10'
+  DPegawai_2:
+    DUser: DUser_2
+    nama: 'Ir. Kusdarwanto, M.Pd'
+    nip: '010196667'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_2
+    tempat_lahir: Madiun
+    tanggal_lahir: '1956-04-18'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: ''
+    jenis_kelamin: false
+    alamat: 'Jl. Pemuda 139, Panjer, Kebumen'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '0'
+    MStatusPernikahan: MStatusPernikahan_2
+    pasangan: ''
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-07-04 09:59:55'
+    updated_at: '2011-07-04 09:59:55'
+  DPegawai_3:
+    DUser: DUser_4
+    nama: 'Drs. I Ketut Muliartha, MT.'
+    nip: '010110336'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: Denpasar
+    tanggal_lahir: '1950-01-10'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: ''
+    jenis_kelamin: false
+    alamat: 'Jl. Gatot Subroto I/XIII Nomor 5 Denpasar'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '0'
+    MStatusPernikahan: MStatusPernikahan_2
+    pasangan: 'Mi Ketut Alit Sutrisni'
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '1982-01-01'
+    created_at: '2011-07-04 08:44:17'
+    updated_at: '2011-07-04 08:51:14'
+  DPegawai_4:
+    DUser: DUser_5
+    nama: 'Drs. Imam Samudra'
+    nip: '050012488'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: ''
+    tanggal_lahir: '2011-07-30'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: ''
+    jenis_kelamin: false
+    alamat: 'Jl.Pakis II D Blok.BB 49/22 Pekayon Jaya Bekasi'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '0'
+    MStatusPernikahan: MStatusPernikahan_2
+    pasangan: ''
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-07-04 10:01:12'
+    updated_at: '2011-07-04 10:01:12'
+  DPegawai_5:
+    DUser: DUser_6
+    nama: 'Sri Saptaningsih, ST.'
+    nip: '010262015'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: Boyolali
+    tanggal_lahir: '1971-12-10'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: ''
+    jenis_kelamin: true
+    alamat: 'Duta Bintaro Blok F 1No.2 Tangerang'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '48'
+    MStatusPernikahan: MStatusPernikahan_2
+    pasangan: ''
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-07-04 10:02:28'
+    updated_at: '2011-07-04 10:02:28'
+  DPegawai_6:
+    DUser: DUser_7
+    nama: 'Drs. Muns Hilman'
+    nip: '050021744'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: ''
+    tanggal_lahir: '1952-07-15'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: ''
+    jenis_kelamin: false
+    alamat: 'BSD Sektor I/ 7 Jl.Pakis 2 Blok I-5 N0.7 Serpong Tangerang'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '48'
+    MStatusPernikahan: MStatusPernikahan_2
+    pasangan: ''
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-07-04 10:03:35'
+    updated_at: '2011-07-04 10:03:35'
+  DPegawai_7:
+    DUser: DUser_8
+    nama: 'Morasaki Hutasuhut, S.Sos., M.Pd I.'
+    nip: '050022372'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: 'Tapanuli Selatan'
+    tanggal_lahir: '2011-07-22'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: ''
+    jenis_kelamin: false
+    alamat: 'Kompl.Kehakiman Blok.D 9 Buaran Indah Tangerang'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '48'
+    MStatusPernikahan: MStatusPernikahan_2
+    pasangan: ''
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-07-04 10:04:49'
+    updated_at: '2011-07-04 10:05:12'
+  DPegawai_8:
+    DUser: DUser_9
+    nama: 'Bachran Mile, B.A.'
+    nip: '050031074'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: Makassar
+    tanggal_lahir: '1961-07-14'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: ''
+    jenis_kelamin: false
+    alamat: 'Jl.Kerinci Raya Blok.C6 No.17 Pd.Gede, Bekasi'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '48'
+    MStatusPernikahan: MStatusPernikahan_1
+    pasangan: ''
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-07-04 10:06:13'
+    updated_at: '2011-07-04 10:06:13'
+  DPegawai_9:
+    DUser: DUser_10
+    nama: 'Hoetomo, MPA.'
+    nip: '060034376'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: Madiun
+    tanggal_lahir: '1947-07-08'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: ''
+    jenis_kelamin: false
+    alamat: 'Jl. Manggarai Selatan IX/62, Jakarta Selatan'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '48'
+    MStatusPernikahan: MStatusPernikahan_2
+    pasangan: ''
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-07-04 10:07:09'
+    updated_at: '2011-07-04 10:07:20'
+  DPegawai_10:
+    DUser: DUser_11
+    nama: 'Yazid Nurhuda, S.H., M.A.'
+    nip: '060082861'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: Yogyakarta
+    tanggal_lahir: '1968-12-09'
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: ''
+    jenis_kelamin: false
+    alamat: 'Jl. Gagalur Nomor 21 Bantarjati Bogor'
+    telepon_rumah: ''
+    telepon_genggam: ''
+    alamat_email: ''
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '48'
+    MStatusPernikahan: MStatusPernikahan_2
+    pasangan: ''
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-07-04 10:08:22'
+    updated_at: '2011-07-04 10:08:22'
+  DPegawai_11:
+    DUser: DUser_12
+    nama: 'Sigit Prasetyo, A.Md.'
+    nip: '19830920 200901 1 004'
+    nomor_kartu_pegawai: ''
+    MInstansi: MInstansi_1
+    tempat_lahir: jakarta
+    tanggal_lahir: null
+    MAgama: MAgama_1
+    kelompok_pegawai: ''
+    status_kerja: ''
+    tinggi: ''
+    berat: ''
+    golongan_darah: A
+    jenis_kelamin: false
+    alamat: 'Kp sukapaura jaya RT 05/010 no.54'
+    telepon_rumah: '44831167'
+    telepon_genggam: '08568518465'
+    alamat_email: el_pras@menlh.go.id
+    tmt: '0000-00-00'
+    kenaikan_pangkat_berkala: '0'
+    MStatusPernikahan: MStatusPernikahan_1
+    pasangan: ''
+    nomor_kartu_pasangan: ''
+    nomor_askes: ''
+    nomor_npwp: ''
+    nomor_induk_kependudukan: ''
+    tanggal_sumpah_pns: '0000-00-00'
+    created_at: '2011-08-01 11:20:53'
+    updated_at: '2011-08-01 11:21:24'

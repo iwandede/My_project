@@ -1,0 +1,3163 @@
+MGaji:
+  MGaji_1:
+    kode: '110'
+    MPangkat: MPangkat_1
+    masa_kerja: '0'
+    gaji: '1040000'
+    kenaikan: '713000'
+  MGaji_2:
+    kode: '111'
+    MPangkat: MPangkat_1
+    masa_kerja: '1'
+    gaji: '1040000'
+    kenaikan: '713000'
+  MGaji_3:
+    kode: '112'
+    MPangkat: MPangkat_1
+    masa_kerja: '2'
+    gaji: '1065600'
+    kenaikan: '729200'
+  MGaji_4:
+    kode: '113'
+    MPangkat: MPangkat_1
+    masa_kerja: '3'
+    gaji: '1065600'
+    kenaikan: '745400'
+  MGaji_5:
+    kode: '114'
+    MPangkat: MPangkat_1
+    masa_kerja: '4'
+    gaji: '1091700'
+    kenaikan: '745400'
+  MGaji_6:
+    kode: '115'
+    MPangkat: MPangkat_1
+    masa_kerja: '5'
+    gaji: '1091700'
+    kenaikan: '762300'
+  MGaji_7:
+    kode: '116'
+    MPangkat: MPangkat_1
+    masa_kerja: '6'
+    gaji: '1118500'
+    kenaikan: '762300'
+  MGaji_8:
+    kode: '117'
+    MPangkat: MPangkat_1
+    masa_kerja: '7'
+    gaji: '1118500'
+    kenaikan: '779400'
+  MGaji_9:
+    kode: '118'
+    MPangkat: MPangkat_1
+    masa_kerja: '8'
+    gaji: '1146000'
+    kenaikan: '779400'
+  MGaji_10:
+    kode: '119'
+    MPangkat: MPangkat_1
+    masa_kerja: '9'
+    gaji: '1146000'
+    kenaikan: '796900'
+  MGaji_11:
+    kode: '1110'
+    MPangkat: MPangkat_1
+    masa_kerja: '10'
+    gaji: '1174100'
+    kenaikan: '796900'
+  MGaji_12:
+    kode: '1111'
+    MPangkat: MPangkat_1
+    masa_kerja: '11'
+    gaji: '1174100'
+    kenaikan: '814700'
+  MGaji_13:
+    kode: '1112'
+    MPangkat: MPangkat_1
+    masa_kerja: '12'
+    gaji: '1202900'
+    kenaikan: '814700'
+  MGaji_14:
+    kode: '1113'
+    MPangkat: MPangkat_1
+    masa_kerja: '13'
+    gaji: '1202900'
+    kenaikan: '833200'
+  MGaji_15:
+    kode: '1114'
+    MPangkat: MPangkat_1
+    masa_kerja: '14'
+    gaji: '1232500'
+    kenaikan: '833200'
+  MGaji_16:
+    kode: '1115'
+    MPangkat: MPangkat_1
+    masa_kerja: '15'
+    gaji: '1232500'
+    kenaikan: '851900'
+  MGaji_17:
+    kode: '1116'
+    MPangkat: MPangkat_1
+    masa_kerja: '16'
+    gaji: '1262700'
+    kenaikan: '851900'
+  MGaji_18:
+    kode: '1117'
+    MPangkat: MPangkat_1
+    masa_kerja: '17'
+    gaji: '1262700'
+    kenaikan: '871100'
+  MGaji_19:
+    kode: '1118'
+    MPangkat: MPangkat_1
+    masa_kerja: '18'
+    gaji: '1293700'
+    kenaikan: '871100'
+  MGaji_20:
+    kode: '1119'
+    MPangkat: MPangkat_1
+    masa_kerja: '19'
+    gaji: '1293700'
+    kenaikan: '890700'
+  MGaji_21:
+    kode: '1120'
+    MPangkat: MPangkat_1
+    masa_kerja: '20'
+    gaji: '1325500'
+    kenaikan: '890700'
+  MGaji_22:
+    kode: '1121'
+    MPangkat: MPangkat_1
+    masa_kerja: '21'
+    gaji: '1325500'
+    kenaikan: '910700'
+  MGaji_23:
+    kode: '1122'
+    MPangkat: MPangkat_1
+    masa_kerja: '22'
+    gaji: '1358000'
+    kenaikan: '910700'
+  MGaji_24:
+    kode: '1123'
+    MPangkat: MPangkat_1
+    masa_kerja: '23'
+    gaji: '1358000'
+    kenaikan: '931100'
+  MGaji_25:
+    kode: '1124'
+    MPangkat: MPangkat_1
+    masa_kerja: '24'
+    gaji: '1391400'
+    kenaikan: '931100'
+  MGaji_26:
+    kode: '1125'
+    MPangkat: MPangkat_1
+    masa_kerja: '25'
+    gaji: '1391400'
+    kenaikan: '952100'
+  MGaji_27:
+    kode: '1126'
+    MPangkat: MPangkat_1
+    masa_kerja: '26'
+    gaji: '1425500'
+    kenaikan: '952100'
+  MGaji_28:
+    kode: '1127'
+    MPangkat: MPangkat_1
+    masa_kerja: '27'
+    gaji: '1425500'
+    kenaikan: '952100'
+  MGaji_29:
+    kode: '123'
+    MPangkat: MPangkat_2
+    masa_kerja: '3'
+    gaji: '1124300'
+    kenaikan: '768500'
+  MGaji_30:
+    kode: '124'
+    MPangkat: MPangkat_2
+    masa_kerja: '4'
+    gaji: '1124300'
+    kenaikan: '768500'
+  MGaji_31:
+    kode: '125'
+    MPangkat: MPangkat_2
+    masa_kerja: '5'
+    gaji: '1151900'
+    kenaikan: '785700'
+  MGaji_32:
+    kode: '126'
+    MPangkat: MPangkat_2
+    masa_kerja: '6'
+    gaji: '1151900'
+    kenaikan: '785700'
+  MGaji_33:
+    kode: '127'
+    MPangkat: MPangkat_2
+    masa_kerja: '7'
+    gaji: '1180100'
+    kenaikan: '803600'
+  MGaji_34:
+    kode: '128'
+    MPangkat: MPangkat_2
+    masa_kerja: '8'
+    gaji: '1180100'
+    kenaikan: '803600'
+  MGaji_35:
+    kode: '129'
+    MPangkat: MPangkat_2
+    masa_kerja: '9'
+    gaji: '1209100'
+    kenaikan: '821500'
+  MGaji_36:
+    kode: '1210'
+    MPangkat: MPangkat_2
+    masa_kerja: '10'
+    gaji: '1209100'
+    kenaikan: '821500'
+  MGaji_37:
+    kode: '1211'
+    MPangkat: MPangkat_2
+    masa_kerja: '11'
+    gaji: '1238800'
+    kenaikan: '840000'
+  MGaji_38:
+    kode: '1212'
+    MPangkat: MPangkat_2
+    masa_kerja: '12'
+    gaji: '1238800'
+    kenaikan: '840000'
+  MGaji_39:
+    kode: '1213'
+    MPangkat: MPangkat_2
+    masa_kerja: '13'
+    gaji: '1269200'
+    kenaikan: '858700'
+  MGaji_40:
+    kode: '1214'
+    MPangkat: MPangkat_2
+    masa_kerja: '14'
+    gaji: '1269200'
+    kenaikan: '858700'
+  MGaji_41:
+    kode: '1215'
+    MPangkat: MPangkat_2
+    masa_kerja: '15'
+    gaji: '1300400'
+    kenaikan: '878100'
+  MGaji_42:
+    kode: '1216'
+    MPangkat: MPangkat_2
+    masa_kerja: '16'
+    gaji: '1300400'
+    kenaikan: '878100'
+  MGaji_43:
+    kode: '1217'
+    MPangkat: MPangkat_2
+    masa_kerja: '17'
+    gaji: '1332300'
+    kenaikan: '897800'
+  MGaji_44:
+    kode: '1218'
+    MPangkat: MPangkat_2
+    masa_kerja: '18'
+    gaji: '1332300'
+    kenaikan: '897800'
+  MGaji_45:
+    kode: '1219'
+    MPangkat: MPangkat_2
+    masa_kerja: '19'
+    gaji: '1365000'
+    kenaikan: '918100'
+  MGaji_46:
+    kode: '1220'
+    MPangkat: MPangkat_2
+    masa_kerja: '20'
+    gaji: '1365000'
+    kenaikan: '918100'
+  MGaji_47:
+    kode: '1221'
+    MPangkat: MPangkat_2
+    masa_kerja: '21'
+    gaji: '1398500'
+    kenaikan: '938700'
+  MGaji_48:
+    kode: '1222'
+    MPangkat: MPangkat_2
+    masa_kerja: '22'
+    gaji: '1398500'
+    kenaikan: '938700'
+  MGaji_49:
+    kode: '1223'
+    MPangkat: MPangkat_2
+    masa_kerja: '23'
+    gaji: '1432800'
+    kenaikan: '959800'
+  MGaji_50:
+    kode: '1224'
+    MPangkat: MPangkat_2
+    masa_kerja: '24'
+    gaji: '1432800'
+    kenaikan: '959800'
+  MGaji_51:
+    kode: '1225'
+    MPangkat: MPangkat_2
+    masa_kerja: '25'
+    gaji: '1468000'
+    kenaikan: '981500'
+  MGaji_52:
+    kode: '1226'
+    MPangkat: MPangkat_2
+    masa_kerja: '26'
+    gaji: '1468000'
+    kenaikan: '981500'
+  MGaji_53:
+    kode: '1227'
+    MPangkat: MPangkat_2
+    masa_kerja: '27'
+    gaji: '1504100'
+    kenaikan: '1003500'
+  MGaji_54:
+    kode: '133'
+    MPangkat: MPangkat_3
+    masa_kerja: '3'
+    gaji: '1171800'
+    kenaikan: '801100'
+  MGaji_55:
+    kode: '124'
+    MPangkat: MPangkat_3
+    masa_kerja: '4'
+    gaji: '1171800'
+    kenaikan: '801100'
+  MGaji_56:
+    kode: '135'
+    MPangkat: MPangkat_3
+    masa_kerja: '5'
+    gaji: '1200600'
+    kenaikan: '819100'
+  MGaji_57:
+    kode: '136'
+    MPangkat: MPangkat_3
+    masa_kerja: '6'
+    gaji: '1200600'
+    kenaikan: '819100'
+  MGaji_58:
+    kode: '137'
+    MPangkat: MPangkat_3
+    masa_kerja: '7'
+    gaji: '1230100'
+    kenaikan: '837500'
+  MGaji_59:
+    kode: '137'
+    MPangkat: MPangkat_3
+    masa_kerja: '8'
+    gaji: '1230100'
+    kenaikan: '837500'
+  MGaji_60:
+    kode: '139'
+    MPangkat: MPangkat_3
+    masa_kerja: '9'
+    gaji: '1260300'
+    kenaikan: '856300'
+  MGaji_61:
+    kode: '1310'
+    MPangkat: MPangkat_3
+    masa_kerja: '10'
+    gaji: '1260300'
+    kenaikan: '856300'
+  MGaji_62:
+    kode: '1311'
+    MPangkat: MPangkat_3
+    masa_kerja: '11'
+    gaji: '1291200'
+    kenaikan: '875500'
+  MGaji_63:
+    kode: '1312'
+    MPangkat: MPangkat_3
+    masa_kerja: '12'
+    gaji: '1291200'
+    kenaikan: '875500'
+  MGaji_64:
+    kode: '1313'
+    MPangkat: MPangkat_3
+    masa_kerja: '13'
+    gaji: '1322900'
+    kenaikan: '895200'
+  MGaji_65:
+    kode: '1314'
+    MPangkat: MPangkat_3
+    masa_kerja: '14'
+    gaji: '1322900'
+    kenaikan: '895200'
+  MGaji_66:
+    kode: '1315'
+    MPangkat: MPangkat_3
+    masa_kerja: '15'
+    gaji: '1355400'
+    kenaikan: '915300'
+  MGaji_67:
+    kode: '1316'
+    MPangkat: MPangkat_3
+    masa_kerja: '16'
+    gaji: '1355400'
+    kenaikan: '915300'
+  MGaji_68:
+    kode: '1317'
+    MPangkat: MPangkat_3
+    masa_kerja: '17'
+    gaji: '1388700'
+    kenaikan: '935900'
+  MGaji_69:
+    kode: '1318'
+    MPangkat: MPangkat_3
+    masa_kerja: '18'
+    gaji: '1388700'
+    kenaikan: '935900'
+  MGaji_70:
+    kode: '1319'
+    MPangkat: MPangkat_3
+    masa_kerja: '19'
+    gaji: '1422700'
+    kenaikan: '956900'
+  MGaji_71:
+    kode: '1320'
+    MPangkat: MPangkat_3
+    masa_kerja: '20'
+    gaji: '1422700'
+    kenaikan: '956900'
+  MGaji_72:
+    kode: '1321'
+    MPangkat: MPangkat_3
+    masa_kerja: '21'
+    gaji: '1457700'
+    kenaikan: '978400'
+  MGaji_73:
+    kode: '1322'
+    MPangkat: MPangkat_3
+    masa_kerja: '22'
+    gaji: '1457700'
+    kenaikan: '978400'
+  MGaji_74:
+    kode: '1323'
+    MPangkat: MPangkat_3
+    masa_kerja: '23'
+    gaji: '1493500'
+    kenaikan: '1000400'
+  MGaji_75:
+    kode: '1324'
+    MPangkat: MPangkat_3
+    masa_kerja: '24'
+    gaji: '1493500'
+    kenaikan: '1000400'
+  MGaji_76:
+    kode: '1325'
+    MPangkat: MPangkat_3
+    masa_kerja: '25'
+    gaji: '1530100'
+    kenaikan: '1022900'
+  MGaji_77:
+    kode: '1326'
+    MPangkat: MPangkat_3
+    masa_kerja: '26'
+    gaji: '1530100'
+    kenaikan: '1022900'
+  MGaji_78:
+    kode: '1327'
+    MPangkat: MPangkat_3
+    masa_kerja: '27'
+    gaji: '1567700'
+    kenaikan: '1046000'
+  MGaji_79:
+    kode: '143'
+    MPangkat: MPangkat_4
+    masa_kerja: '3'
+    gaji: '1221400'
+    kenaikan: '834900'
+  MGaji_80:
+    kode: '144'
+    MPangkat: MPangkat_4
+    masa_kerja: '4'
+    gaji: '1221400'
+    kenaikan: '834900'
+  MGaji_81:
+    kode: '145'
+    MPangkat: MPangkat_4
+    masa_kerja: '5'
+    gaji: '1251400'
+    kenaikan: '853800'
+  MGaji_82:
+    kode: '146'
+    MPangkat: MPangkat_4
+    masa_kerja: '6'
+    gaji: '1251400'
+    kenaikan: '853800'
+  MGaji_83:
+    kode: '147'
+    MPangkat: MPangkat_4
+    masa_kerja: '7'
+    gaji: '1282100'
+    kenaikan: '872900'
+  MGaji_84:
+    kode: '148'
+    MPangkat: MPangkat_4
+    masa_kerja: '8'
+    gaji: '1282100'
+    kenaikan: '872900'
+  MGaji_85:
+    kode: '149'
+    MPangkat: MPangkat_4
+    masa_kerja: '9'
+    gaji: '1313600'
+    kenaikan: '892500'
+  MGaji_86:
+    kode: '1410'
+    MPangkat: MPangkat_4
+    masa_kerja: '10'
+    gaji: '1313600'
+    kenaikan: '892500'
+  MGaji_87:
+    kode: '1411'
+    MPangkat: MPangkat_4
+    masa_kerja: '11'
+    gaji: '1345800'
+    kenaikan: '912500'
+  MGaji_88:
+    kode: '1412'
+    MPangkat: MPangkat_4
+    masa_kerja: '12'
+    gaji: '1345800'
+    kenaikan: '912500'
+  MGaji_89:
+    kode: '1413'
+    MPangkat: MPangkat_4
+    masa_kerja: '13'
+    gaji: '1378900'
+    kenaikan: '933100'
+  MGaji_90:
+    kode: '1414'
+    MPangkat: MPangkat_4
+    masa_kerja: '14'
+    gaji: '1378900'
+    kenaikan: '933100'
+  MGaji_91:
+    kode: '1415'
+    MPangkat: MPangkat_4
+    masa_kerja: '15'
+    gaji: '1412700'
+    kenaikan: '954100'
+  MGaji_92:
+    kode: '1416'
+    MPangkat: MPangkat_4
+    masa_kerja: '16'
+    gaji: '1412700'
+    kenaikan: '954100'
+  MGaji_93:
+    kode: '1417'
+    MPangkat: MPangkat_4
+    masa_kerja: '17'
+    gaji: '1447400'
+    kenaikan: '975500'
+  MGaji_94:
+    kode: '1418'
+    MPangkat: MPangkat_4
+    masa_kerja: '18'
+    gaji: '1447400'
+    kenaikan: '975500'
+  MGaji_95:
+    kode: '1419'
+    MPangkat: MPangkat_4
+    masa_kerja: '19'
+    gaji: '1482900'
+    kenaikan: '997500'
+  MGaji_96:
+    kode: '1420'
+    MPangkat: MPangkat_4
+    masa_kerja: '20'
+    gaji: '1482900'
+    kenaikan: '997500'
+  MGaji_97:
+    kode: '1421'
+    MPangkat: MPangkat_4
+    masa_kerja: '21'
+    gaji: '1519300'
+    kenaikan: '1019900'
+  MGaji_98:
+    kode: '1422'
+    MPangkat: MPangkat_4
+    masa_kerja: '22'
+    gaji: '1519300'
+    kenaikan: '1019900'
+  MGaji_99:
+    kode: '1423'
+    MPangkat: MPangkat_4
+    masa_kerja: '23'
+    gaji: '1556600'
+    kenaikan: '1042700'
+  MGaji_100:
+    kode: '1424'
+    MPangkat: MPangkat_4
+    masa_kerja: '24'
+    gaji: '1556600'
+    kenaikan: '1042700'
+  MGaji_101:
+    kode: '1425'
+    MPangkat: MPangkat_4
+    masa_kerja: '25'
+    gaji: '1594800'
+    kenaikan: '1066100'
+  MGaji_102:
+    kode: '1426'
+    MPangkat: MPangkat_4
+    masa_kerja: '26'
+    gaji: '1594800'
+    kenaikan: '1066100'
+  MGaji_103:
+    kode: '1427'
+    MPangkat: MPangkat_4
+    masa_kerja: '27'
+    gaji: '1634000'
+    kenaikan: '1090200'
+  MGaji_104:
+    kode: '210'
+    MPangkat: MPangkat_5
+    masa_kerja: '0'
+    gaji: '1320300'
+    kenaikan: '899800'
+  MGaji_105:
+    kode: '211'
+    MPangkat: MPangkat_5
+    masa_kerja: '1'
+    gaji: '1336500'
+    kenaikan: '909900'
+  MGaji_106:
+    kode: '212'
+    MPangkat: MPangkat_5
+    masa_kerja: '2'
+    gaji: '1336500'
+    kenaikan: '909900'
+  MGaji_107:
+    kode: '213'
+    MPangkat: MPangkat_5
+    masa_kerja: '3'
+    gaji: '1369300'
+    kenaikan: '930400'
+  MGaji_108:
+    kode: '214'
+    MPangkat: MPangkat_5
+    masa_kerja: '4'
+    gaji: '1369300'
+    kenaikan: '930400'
+  MGaji_109:
+    kode: '215'
+    MPangkat: MPangkat_5
+    masa_kerja: '5'
+    gaji: '1403000'
+    kenaikan: '951300'
+  MGaji_110:
+    kode: '216'
+    MPangkat: MPangkat_5
+    masa_kerja: '6'
+    gaji: '1403000'
+    kenaikan: '951300'
+  MGaji_111:
+    kode: '217'
+    MPangkat: MPangkat_5
+    masa_kerja: '7'
+    gaji: '1437400'
+    kenaikan: '972700'
+  MGaji_112:
+    kode: '218'
+    MPangkat: MPangkat_5
+    masa_kerja: '8'
+    gaji: '1437400'
+    kenaikan: '972700'
+  MGaji_113:
+    kode: '219'
+    MPangkat: MPangkat_5
+    masa_kerja: '9'
+    gaji: '1472700'
+    kenaikan: '994500'
+  MGaji_114:
+    kode: '2110'
+    MPangkat: MPangkat_5
+    masa_kerja: '10'
+    gaji: '1472700'
+    kenaikan: '994500'
+  MGaji_115:
+    kode: '2111'
+    MPangkat: MPangkat_5
+    masa_kerja: '11'
+    gaji: '1508800'
+    kenaikan: '1016800'
+  MGaji_116:
+    kode: '2112'
+    MPangkat: MPangkat_5
+    masa_kerja: '12'
+    gaji: '1508800'
+    kenaikan: '1016800'
+  MGaji_117:
+    kode: '2113'
+    MPangkat: MPangkat_5
+    masa_kerja: '13'
+    gaji: '1545900'
+    kenaikan: '1039800'
+  MGaji_118:
+    kode: '2114'
+    MPangkat: MPangkat_5
+    masa_kerja: '14'
+    gaji: '1545900'
+    kenaikan: '1039800'
+  MGaji_119:
+    kode: '2115'
+    MPangkat: MPangkat_5
+    masa_kerja: '15'
+    gaji: '1583800'
+    kenaikan: '1063200'
+  MGaji_120:
+    kode: '2116'
+    MPangkat: MPangkat_5
+    masa_kerja: '16'
+    gaji: '1583800'
+    kenaikan: '1063200'
+  MGaji_121:
+    kode: '2117'
+    MPangkat: MPangkat_5
+    masa_kerja: '17'
+    gaji: '1622700'
+    kenaikan: '1086900'
+  MGaji_122:
+    kode: '2118'
+    MPangkat: MPangkat_5
+    masa_kerja: '18'
+    gaji: '1622700'
+    kenaikan: '1086900'
+  MGaji_123:
+    kode: '2119'
+    MPangkat: MPangkat_5
+    masa_kerja: '19'
+    gaji: '1662500'
+    kenaikan: '1111400'
+  MGaji_124:
+    kode: '2120'
+    MPangkat: MPangkat_5
+    masa_kerja: '20'
+    gaji: '1662500'
+    kenaikan: '1111400'
+  MGaji_125:
+    kode: '2121'
+    MPangkat: MPangkat_5
+    masa_kerja: '21'
+    gaji: '1703400'
+    kenaikan: '1136500'
+  MGaji_126:
+    kode: '2122'
+    MPangkat: MPangkat_5
+    masa_kerja: '22'
+    gaji: '1703400'
+    kenaikan: '1136500'
+  MGaji_127:
+    kode: '2123'
+    MPangkat: MPangkat_5
+    masa_kerja: '23'
+    gaji: '1745200'
+    kenaikan: '1161900'
+  MGaji_128:
+    kode: '2124'
+    MPangkat: MPangkat_5
+    masa_kerja: '24'
+    gaji: '1745200'
+    kenaikan: '1161900'
+  MGaji_129:
+    kode: '2125'
+    MPangkat: MPangkat_5
+    masa_kerja: '25'
+    gaji: '1788000'
+    kenaikan: '1188000'
+  MGaji_130:
+    kode: '2126'
+    MPangkat: MPangkat_5
+    masa_kerja: '26'
+    gaji: '1788000'
+    kenaikan: '1188000'
+  MGaji_131:
+    kode: '2127'
+    MPangkat: MPangkat_5
+    masa_kerja: '27'
+    gaji: '1831900'
+    kenaikan: '1214800'
+  MGaji_132:
+    kode: '2128'
+    MPangkat: MPangkat_5
+    masa_kerja: '28'
+    gaji: '1831900'
+    kenaikan: '1214800'
+  MGaji_133:
+    kode: '2129'
+    MPangkat: MPangkat_5
+    masa_kerja: '29'
+    gaji: '1876900'
+    kenaikan: '1242100'
+  MGaji_134:
+    kode: '2130'
+    MPangkat: MPangkat_5
+    masa_kerja: '30'
+    gaji: '1876900'
+    kenaikan: '1242100'
+  MGaji_135:
+    kode: '2131'
+    MPangkat: MPangkat_5
+    masa_kerja: '31'
+    gaji: '1923000'
+    kenaikan: '1270000'
+  MGaji_136:
+    kode: '2132'
+    MPangkat: MPangkat_5
+    masa_kerja: '32'
+    gaji: '1923000'
+    kenaikan: '1270000'
+  MGaji_137:
+    kode: '2133'
+    MPangkat: MPangkat_5
+    masa_kerja: '33'
+    gaji: '1970200'
+    kenaikan: '1298500'
+  MGaji_138:
+    kode: '223'
+    MPangkat: MPangkat_6
+    masa_kerja: '3'
+    gaji: '1427300'
+    kenaikan: '969700'
+  MGaji_139:
+    kode: '224'
+    MPangkat: MPangkat_6
+    masa_kerja: '4'
+    gaji: '1427300'
+    kenaikan: '969700'
+  MGaji_140:
+    kode: '225'
+    MPangkat: MPangkat_6
+    masa_kerja: '5'
+    gaji: '1462300'
+    kenaikan: '991400'
+  MGaji_141:
+    kode: '226'
+    MPangkat: MPangkat_6
+    masa_kerja: '6'
+    gaji: '1462300'
+    kenaikan: '991400'
+  MGaji_142:
+    kode: '227'
+    MPangkat: MPangkat_6
+    masa_kerja: '7'
+    gaji: '1498200'
+    kenaikan: '1013700'
+  MGaji_143:
+    kode: '228'
+    MPangkat: MPangkat_6
+    masa_kerja: '8'
+    gaji: '1498200'
+    kenaikan: '1013700'
+  MGaji_144:
+    kode: '229'
+    MPangkat: MPangkat_6
+    masa_kerja: '9'
+    gaji: '1535000'
+    kenaikan: '1036700'
+  MGaji_145:
+    kode: '2210'
+    MPangkat: MPangkat_6
+    masa_kerja: '10'
+    gaji: '1535000'
+    kenaikan: '1036700'
+  MGaji_146:
+    kode: '2211'
+    MPangkat: MPangkat_6
+    masa_kerja: '11'
+    gaji: '1572700'
+    kenaikan: '1059900'
+  MGaji_147:
+    kode: '2212'
+    MPangkat: MPangkat_6
+    masa_kerja: '12'
+    gaji: '1572700'
+    kenaikan: '1059900'
+  MGaji_148:
+    kode: '2213'
+    MPangkat: MPangkat_6
+    masa_kerja: '13'
+    gaji: '1611300'
+    kenaikan: '1083800'
+  MGaji_149:
+    kode: '2214'
+    MPangkat: MPangkat_6
+    masa_kerja: '14'
+    gaji: '1611300'
+    kenaikan: '1083800'
+  MGaji_150:
+    kode: '2215'
+    MPangkat: MPangkat_6
+    masa_kerja: '15'
+    gaji: '1650800'
+    kenaikan: '1108000'
+  MGaji_151:
+    kode: '2216'
+    MPangkat: MPangkat_6
+    masa_kerja: '16'
+    gaji: '1650800'
+    kenaikan: '1108000'
+  MGaji_152:
+    kode: '2217'
+    MPangkat: MPangkat_6
+    masa_kerja: '17'
+    gaji: '1691400'
+    kenaikan: '1132900'
+  MGaji_153:
+    kode: '2218'
+    MPangkat: MPangkat_6
+    masa_kerja: '18'
+    gaji: '1691400'
+    kenaikan: '1132900'
+  MGaji_154:
+    kode: '2219'
+    MPangkat: MPangkat_6
+    masa_kerja: '19'
+    gaji: '1732900'
+    kenaikan: '1158500'
+  MGaji_155:
+    kode: '2220'
+    MPangkat: MPangkat_6
+    masa_kerja: '20'
+    gaji: '1732900'
+    kenaikan: '1158500'
+  MGaji_156:
+    kode: '2221'
+    MPangkat: MPangkat_6
+    masa_kerja: '21'
+    gaji: '1775400'
+    kenaikan: '1184600'
+  MGaji_157:
+    kode: '2222'
+    MPangkat: MPangkat_6
+    masa_kerja: '22'
+    gaji: '1775400'
+    kenaikan: '1184600'
+  MGaji_158:
+    kode: '2223'
+    MPangkat: MPangkat_6
+    masa_kerja: '23'
+    gaji: '1819000'
+    kenaikan: '1211100'
+  MGaji_159:
+    kode: '2224'
+    MPangkat: MPangkat_6
+    masa_kerja: '24'
+    gaji: '1819000'
+    kenaikan: '1211100'
+  MGaji_160:
+    kode: '2225'
+    MPangkat: MPangkat_6
+    masa_kerja: '25'
+    gaji: '1863700'
+    kenaikan: '1238300'
+  MGaji_161:
+    kode: '2226'
+    MPangkat: MPangkat_6
+    masa_kerja: '26'
+    gaji: '1863700'
+    kenaikan: '1238300'
+  MGaji_162:
+    kode: '2227'
+    MPangkat: MPangkat_6
+    masa_kerja: '27'
+    gaji: '1909400'
+    kenaikan: '1266100'
+  MGaji_163:
+    kode: '2228'
+    MPangkat: MPangkat_6
+    masa_kerja: '28'
+    gaji: '1909400'
+    kenaikan: '1266100'
+  MGaji_164:
+    kode: '2229'
+    MPangkat: MPangkat_6
+    masa_kerja: '29'
+    gaji: '1956300'
+    kenaikan: '1294600'
+  MGaji_165:
+    kode: '2230'
+    MPangkat: MPangkat_6
+    masa_kerja: '30'
+    gaji: '1956300'
+    kenaikan: '1294600'
+  MGaji_166:
+    kode: '2231'
+    MPangkat: MPangkat_6
+    masa_kerja: '31'
+    gaji: '2004300'
+    kenaikan: '1323700'
+  MGaji_167:
+    kode: '2232'
+    MPangkat: MPangkat_6
+    masa_kerja: '32'
+    gaji: '2004300'
+    kenaikan: '1323700'
+  MGaji_168:
+    kode: '2233'
+    MPangkat: MPangkat_6
+    masa_kerja: '33'
+    gaji: '2053500'
+    kenaikan: '1353500'
+  MGaji_169:
+    kode: '2303'
+    MPangkat: MPangkat_7
+    masa_kerja: '3'
+    gaji: '1487600'
+    kenaikan: '1010600'
+  MGaji_170:
+    kode: '2304'
+    MPangkat: MPangkat_7
+    masa_kerja: '4'
+    gaji: '1487600'
+    kenaikan: '1010600'
+  MGaji_171:
+    kode: '2305'
+    MPangkat: MPangkat_7
+    masa_kerja: '5'
+    gaji: '1524200'
+    kenaikan: '1033600'
+  MGaji_172:
+    kode: '2306'
+    MPangkat: MPangkat_7
+    masa_kerja: '6'
+    gaji: '1524200'
+    kenaikan: '1033600'
+  MGaji_173:
+    kode: '2307'
+    MPangkat: MPangkat_7
+    masa_kerja: '7'
+    gaji: '1561600'
+    kenaikan: '1056700'
+  MGaji_174:
+    kode: '2308'
+    MPangkat: MPangkat_7
+    masa_kerja: '8'
+    gaji: '1561600'
+    kenaikan: '1056700'
+  MGaji_175:
+    kode: '2309'
+    MPangkat: MPangkat_7
+    masa_kerja: '9'
+    gaji: '1599900'
+    kenaikan: '1080400'
+  MGaji_176:
+    kode: '2310'
+    MPangkat: MPangkat_7
+    masa_kerja: '10'
+    gaji: '1599900'
+    kenaikan: '1080400'
+  MGaji_177:
+    kode: '2311'
+    MPangkat: MPangkat_7
+    masa_kerja: '11'
+    gaji: '1639200'
+    kenaikan: '1104700'
+  MGaji_178:
+    kode: '2312'
+    MPangkat: MPangkat_7
+    masa_kerja: '12'
+    gaji: '1639200'
+    kenaikan: '1104700'
+  MGaji_179:
+    kode: '2313'
+    MPangkat: MPangkat_7
+    masa_kerja: '13'
+    gaji: '1679400'
+    kenaikan: '1129700'
+  MGaji_180:
+    kode: '2314'
+    MPangkat: MPangkat_7
+    masa_kerja: '14'
+    gaji: '1679400'
+    kenaikan: '1129700'
+  MGaji_181:
+    kode: '2315'
+    MPangkat: MPangkat_7
+    masa_kerja: '15'
+    gaji: '1720700'
+    kenaikan: '1155000'
+  MGaji_182:
+    kode: '2316'
+    MPangkat: MPangkat_7
+    masa_kerja: '16'
+    gaji: '1720700'
+    kenaikan: '1155000'
+  MGaji_183:
+    kode: '2317'
+    MPangkat: MPangkat_7
+    masa_kerja: '17'
+    gaji: '1762900'
+    kenaikan: '1181000'
+  MGaji_184:
+    kode: '2318'
+    MPangkat: MPangkat_7
+    masa_kerja: '18'
+    gaji: '1762900'
+    kenaikan: '1181000'
+  MGaji_185:
+    kode: '2319'
+    MPangkat: MPangkat_7
+    masa_kerja: '19'
+    gaji: '1806200'
+    kenaikan: '1207500'
+  MGaji_186:
+    kode: '2320'
+    MPangkat: MPangkat_7
+    masa_kerja: '20'
+    gaji: '1806200'
+    kenaikan: '1207500'
+  MGaji_187:
+    kode: '2321'
+    MPangkat: MPangkat_7
+    masa_kerja: '21'
+    gaji: '1850500'
+    kenaikan: '1234600'
+  MGaji_188:
+    kode: '2322'
+    MPangkat: MPangkat_7
+    masa_kerja: '22'
+    gaji: '1850500'
+    kenaikan: '1234600'
+  MGaji_189:
+    kode: '2323'
+    MPangkat: MPangkat_7
+    masa_kerja: '23'
+    gaji: '1895900'
+    kenaikan: '1262400'
+  MGaji_190:
+    kode: '2324'
+    MPangkat: MPangkat_7
+    masa_kerja: '24'
+    gaji: '1895900'
+    kenaikan: '1262400'
+  MGaji_191:
+    kode: '2325'
+    MPangkat: MPangkat_7
+    masa_kerja: '25'
+    gaji: '1942500'
+    kenaikan: '1290700'
+  MGaji_192:
+    kode: '2326'
+    MPangkat: MPangkat_7
+    masa_kerja: '26'
+    gaji: '1942500'
+    kenaikan: '1290700'
+  MGaji_193:
+    kode: '2327'
+    MPangkat: MPangkat_7
+    masa_kerja: '27'
+    gaji: '1990200'
+    kenaikan: '1319700'
+  MGaji_194:
+    kode: '2328'
+    MPangkat: MPangkat_7
+    masa_kerja: '28'
+    gaji: '1990200'
+    kenaikan: '1319700'
+  MGaji_195:
+    kode: '2329'
+    MPangkat: MPangkat_7
+    masa_kerja: '29'
+    gaji: '2039000'
+    kenaikan: '1349500'
+  MGaji_196:
+    kode: '2330'
+    MPangkat: MPangkat_7
+    masa_kerja: '30'
+    gaji: '2039000'
+    kenaikan: '1349500'
+  MGaji_197:
+    kode: '2331'
+    MPangkat: MPangkat_7
+    masa_kerja: '31'
+    gaji: '2089100'
+    kenaikan: '1379700'
+  MGaji_198:
+    kode: '2332'
+    MPangkat: MPangkat_7
+    masa_kerja: '32'
+    gaji: '2089100'
+    kenaikan: '1379700'
+  MGaji_199:
+    kode: '2333'
+    MPangkat: MPangkat_7
+    masa_kerja: '33'
+    gaji: '2140400'
+    kenaikan: '1410700'
+  MGaji_200:
+    kode: '2403'
+    MPangkat: MPangkat_8
+    masa_kerja: '3'
+    gaji: '1550600'
+    kenaikan: '1053400'
+  MGaji_201:
+    kode: '2404'
+    MPangkat: MPangkat_8
+    masa_kerja: '4'
+    gaji: '1550600'
+    kenaikan: '1053400'
+  MGaji_202:
+    kode: '2405'
+    MPangkat: MPangkat_8
+    masa_kerja: '5'
+    gaji: '1588600'
+    kenaikan: '1077100'
+  MGaji_203:
+    kode: '2406'
+    MPangkat: MPangkat_8
+    masa_kerja: '6'
+    gaji: '1588600'
+    kenaikan: '1077100'
+  MGaji_204:
+    kode: '2407'
+    MPangkat: MPangkat_8
+    masa_kerja: '7'
+    gaji: '1627600'
+    kenaikan: '1101300'
+  MGaji_205:
+    kode: '2408'
+    MPangkat: MPangkat_8
+    masa_kerja: '8'
+    gaji: '1627600'
+    kenaikan: '1101300'
+  MGaji_206:
+    kode: '2409'
+    MPangkat: MPangkat_8
+    masa_kerja: '9'
+    gaji: '1667600'
+    kenaikan: '1126100'
+  MGaji_207:
+    kode: '2410'
+    MPangkat: MPangkat_8
+    masa_kerja: '10'
+    gaji: '1667600'
+    kenaikan: '1126100'
+  MGaji_208:
+    kode: '2411'
+    MPangkat: MPangkat_8
+    masa_kerja: '11'
+    gaji: '1708500'
+    kenaikan: '1151400'
+  MGaji_209:
+    kode: '2412'
+    MPangkat: MPangkat_8
+    masa_kerja: '12'
+    gaji: '1708500'
+    kenaikan: '1151400'
+  MGaji_210:
+    kode: '2413'
+    MPangkat: MPangkat_8
+    masa_kerja: '13'
+    gaji: '1750500'
+    kenaikan: '1177400'
+  MGaji_211:
+    kode: '2414'
+    MPangkat: MPangkat_8
+    masa_kerja: '14'
+    gaji: '1750500'
+    kenaikan: '1177400'
+  MGaji_212:
+    kode: '2415'
+    MPangkat: MPangkat_8
+    masa_kerja: '15'
+    gaji: '1793400'
+    kenaikan: '1203800'
+  MGaji_213:
+    kode: '2416'
+    MPangkat: MPangkat_8
+    masa_kerja: '16'
+    gaji: '1793400'
+    kenaikan: '1203800'
+  MGaji_214:
+    kode: '2417'
+    MPangkat: MPangkat_8
+    masa_kerja: '17'
+    gaji: '1837500'
+    kenaikan: '1230900'
+  MGaji_215:
+    kode: '2418'
+    MPangkat: MPangkat_8
+    masa_kerja: '18'
+    gaji: '1837500'
+    kenaikan: '1230900'
+  MGaji_216:
+    kode: '2419'
+    MPangkat: MPangkat_8
+    masa_kerja: '19'
+    gaji: '1882600'
+    kenaikan: '1258600'
+  MGaji_217:
+    kode: '2420'
+    MPangkat: MPangkat_8
+    masa_kerja: '20'
+    gaji: '1882600'
+    kenaikan: '1258600'
+  MGaji_218:
+    kode: '2421'
+    MPangkat: MPangkat_8
+    masa_kerja: '21'
+    gaji: '1928800'
+    kenaikan: '1286900'
+  MGaji_219:
+    kode: '2422'
+    MPangkat: MPangkat_8
+    masa_kerja: '22'
+    gaji: '1928800'
+    kenaikan: '1286900'
+  MGaji_220:
+    kode: '2423'
+    MPangkat: MPangkat_8
+    masa_kerja: '23'
+    gaji: '1976100'
+    kenaikan: '1315700'
+  MGaji_221:
+    kode: '2424'
+    MPangkat: MPangkat_8
+    masa_kerja: '24'
+    gaji: '1976100'
+    kenaikan: '1315700'
+  MGaji_222:
+    kode: '2425'
+    MPangkat: MPangkat_8
+    masa_kerja: '25'
+    gaji: '2024700'
+    kenaikan: '1345400'
+  MGaji_223:
+    kode: '2426'
+    MPangkat: MPangkat_8
+    masa_kerja: '26'
+    gaji: '2024700'
+    kenaikan: '1345400'
+  MGaji_224:
+    kode: '2427'
+    MPangkat: MPangkat_8
+    masa_kerja: '27'
+    gaji: '2074400'
+    kenaikan: '1375700'
+  MGaji_225:
+    kode: '2428'
+    MPangkat: MPangkat_8
+    masa_kerja: '28'
+    gaji: '2074400'
+    kenaikan: '1375700'
+  MGaji_226:
+    kode: '2429'
+    MPangkat: MPangkat_8
+    masa_kerja: '29'
+    gaji: '2125300'
+    kenaikan: '1406500'
+  MGaji_227:
+    kode: '2430'
+    MPangkat: MPangkat_8
+    masa_kerja: '30'
+    gaji: '2125300'
+    kenaikan: '1406500'
+  MGaji_228:
+    kode: '2431'
+    MPangkat: MPangkat_8
+    masa_kerja: '31'
+    gaji: '2177500'
+    kenaikan: '1438100'
+  MGaji_229:
+    kode: '2432'
+    MPangkat: MPangkat_8
+    masa_kerja: '32'
+    gaji: '2177500'
+    kenaikan: '1438100'
+  MGaji_230:
+    kode: '2433'
+    MPangkat: MPangkat_8
+    masa_kerja: '33'
+    gaji: '2230900'
+    kenaikan: '1470500'
+  MGaji_231:
+    kode: '310'
+    MPangkat: MPangkat_9
+    masa_kerja: '0'
+    gaji: '1655800'
+    kenaikan: '1086600'
+  MGaji_232:
+    kode: '311'
+    MPangkat: MPangkat_9
+    masa_kerja: '1'
+    gaji: '1655800'
+    kenaikan: '1086600'
+  MGaji_233:
+    kode: '312'
+    MPangkat: MPangkat_9
+    masa_kerja: '2'
+    gaji: '1696500'
+    kenaikan: '1110900'
+  MGaji_234:
+    kode: '313'
+    MPangkat: MPangkat_9
+    masa_kerja: '3'
+    gaji: '1696500'
+    kenaikan: '1110900'
+  MGaji_235:
+    kode: '314'
+    MPangkat: MPangkat_9
+    masa_kerja: '4'
+    gaji: '1738100'
+    kenaikan: '1135800'
+  MGaji_236:
+    kode: '315'
+    MPangkat: MPangkat_9
+    masa_kerja: '5'
+    gaji: '1738100'
+    kenaikan: '1135800'
+  MGaji_237:
+    kode: '316'
+    MPangkat: MPangkat_9
+    masa_kerja: '6'
+    gaji: '1780800'
+    kenaikan: '1161500'
+  MGaji_238:
+    kode: '317'
+    MPangkat: MPangkat_9
+    masa_kerja: '7'
+    gaji: '1780800'
+    kenaikan: '1161500'
+  MGaji_239:
+    kode: '318'
+    MPangkat: MPangkat_9
+    masa_kerja: '8'
+    gaji: '1824500'
+    kenaikan: '1187600'
+  MGaji_240:
+    kode: '319'
+    MPangkat: MPangkat_9
+    masa_kerja: '9'
+    gaji: '1824500'
+    kenaikan: '1187600'
+  MGaji_241:
+    kode: '3110'
+    MPangkat: MPangkat_9
+    masa_kerja: '10'
+    gaji: '1869300'
+    kenaikan: '1214300'
+  MGaji_242:
+    kode: '3111'
+    MPangkat: MPangkat_9
+    masa_kerja: '11'
+    gaji: '1869300'
+    kenaikan: '1214300'
+  MGaji_243:
+    kode: '3112'
+    MPangkat: MPangkat_9
+    masa_kerja: '12'
+    gaji: '1915200'
+    kenaikan: '1241600'
+  MGaji_244:
+    kode: '3113'
+    MPangkat: MPangkat_9
+    masa_kerja: '13'
+    gaji: '1915200'
+    kenaikan: '1241600'
+  MGaji_245:
+    kode: '3114'
+    MPangkat: MPangkat_9
+    masa_kerja: '14'
+    gaji: '1962200'
+    kenaikan: '1269500'
+  MGaji_246:
+    kode: '3115'
+    MPangkat: MPangkat_9
+    masa_kerja: '15'
+    gaji: '1962200'
+    kenaikan: '1269500'
+  MGaji_247:
+    kode: '3116'
+    MPangkat: MPangkat_9
+    masa_kerja: '16'
+    gaji: '2010400'
+    kenaikan: '1298000'
+  MGaji_248:
+    kode: '3117'
+    MPangkat: MPangkat_9
+    masa_kerja: '17'
+    gaji: '2010400'
+    kenaikan: '1298000'
+  MGaji_249:
+    kode: '3118'
+    MPangkat: MPangkat_9
+    masa_kerja: '18'
+    gaji: '2059700'
+    kenaikan: '1327200'
+  MGaji_250:
+    kode: '3119'
+    MPangkat: MPangkat_9
+    masa_kerja: '19'
+    gaji: '2059700'
+    kenaikan: '1327200'
+  MGaji_251:
+    kode: '3120'
+    MPangkat: MPangkat_9
+    masa_kerja: '20'
+    gaji: '2110300'
+    kenaikan: '1357100'
+  MGaji_252:
+    kode: '3121'
+    MPangkat: MPangkat_9
+    masa_kerja: '21'
+    gaji: '2110300'
+    kenaikan: '1357100'
+  MGaji_253:
+    kode: '3122'
+    MPangkat: MPangkat_9
+    masa_kerja: '22'
+    gaji: '2162100'
+    kenaikan: '1387500'
+  MGaji_254:
+    kode: '3123'
+    MPangkat: MPangkat_9
+    masa_kerja: '23'
+    gaji: '2162100'
+    kenaikan: '1387500'
+  MGaji_255:
+    kode: '3124'
+    MPangkat: MPangkat_9
+    masa_kerja: '24'
+    gaji: '2215200'
+    kenaikan: '1418700'
+  MGaji_256:
+    kode: '3125'
+    MPangkat: MPangkat_9
+    masa_kerja: '25'
+    gaji: '2215200'
+    kenaikan: '1418700'
+  MGaji_257:
+    kode: '3126'
+    MPangkat: MPangkat_9
+    masa_kerja: '26'
+    gaji: '2269600'
+    kenaikan: '1450700'
+  MGaji_258:
+    kode: '3127'
+    MPangkat: MPangkat_9
+    masa_kerja: '27'
+    gaji: '2269600'
+    kenaikan: '1450700'
+  MGaji_259:
+    kode: '3128'
+    MPangkat: MPangkat_9
+    masa_kerja: '28'
+    gaji: '2325300'
+    kenaikan: '1483200'
+  MGaji_260:
+    kode: '3129'
+    MPangkat: MPangkat_9
+    masa_kerja: '29'
+    gaji: '2325300'
+    kenaikan: '1483200'
+  MGaji_261:
+    kode: '3130'
+    MPangkat: MPangkat_9
+    masa_kerja: '30'
+    gaji: '2382400'
+    kenaikan: '1516500'
+  MGaji_262:
+    kode: '3131'
+    MPangkat: MPangkat_9
+    masa_kerja: '31'
+    gaji: '2382400'
+    kenaikan: '1516500'
+  MGaji_263:
+    kode: '3132'
+    MPangkat: MPangkat_9
+    masa_kerja: '32'
+    gaji: '2440800'
+    kenaikan: '1550600'
+  MGaji_264:
+    kode: '320'
+    MPangkat: MPangkat_10
+    masa_kerja: '0'
+    gaji: '1725900'
+    kenaikan: '1132500'
+  MGaji_265:
+    kode: '321'
+    MPangkat: MPangkat_10
+    masa_kerja: '1'
+    gaji: '1725900'
+    kenaikan: '1132500'
+  MGaji_266:
+    kode: '322'
+    MPangkat: MPangkat_10
+    masa_kerja: '2'
+    gaji: '1768200'
+    kenaikan: '1158000'
+  MGaji_267:
+    kode: '323'
+    MPangkat: MPangkat_10
+    masa_kerja: '3'
+    gaji: '1768200'
+    kenaikan: '1158000'
+  MGaji_268:
+    kode: '324'
+    MPangkat: MPangkat_10
+    masa_kerja: '4'
+    gaji: '1811600'
+    kenaikan: '1184000'
+  MGaji_269:
+    kode: '325'
+    MPangkat: MPangkat_10
+    masa_kerja: '5'
+    gaji: '1811600'
+    kenaikan: '1184000'
+  MGaji_270:
+    kode: '326'
+    MPangkat: MPangkat_10
+    masa_kerja: '6'
+    gaji: '1856100'
+    kenaikan: '1210700'
+  MGaji_271:
+    kode: '327'
+    MPangkat: MPangkat_10
+    masa_kerja: '7'
+    gaji: '1856100'
+    kenaikan: '1210700'
+  MGaji_272:
+    kode: '328'
+    MPangkat: MPangkat_10
+    masa_kerja: '8'
+    gaji: '1901700'
+    kenaikan: '1237800'
+  MGaji_273:
+    kode: '329'
+    MPangkat: MPangkat_10
+    masa_kerja: '9'
+    gaji: '1901700'
+    kenaikan: '1237800'
+  MGaji_274:
+    kode: '3210'
+    MPangkat: MPangkat_10
+    masa_kerja: '10'
+    gaji: '1948400'
+    kenaikan: '1265600'
+  MGaji_275:
+    kode: '3211'
+    MPangkat: MPangkat_10
+    masa_kerja: '11'
+    gaji: '1948400'
+    kenaikan: '1265600'
+  MGaji_276:
+    kode: '3212'
+    MPangkat: MPangkat_10
+    masa_kerja: '12'
+    gaji: '1996200'
+    kenaikan: '1294100'
+  MGaji_277:
+    kode: '3213'
+    MPangkat: MPangkat_10
+    masa_kerja: '13'
+    gaji: '1996200'
+    kenaikan: '1294100'
+  MGaji_278:
+    kode: '3214'
+    MPangkat: MPangkat_10
+    masa_kerja: '14'
+    gaji: '2045200'
+    kenaikan: '1323000'
+  MGaji_279:
+    kode: '3215'
+    MPangkat: MPangkat_10
+    masa_kerja: '15'
+    gaji: '2045200'
+    kenaikan: '1323000'
+  MGaji_280:
+    kode: '3216'
+    MPangkat: MPangkat_10
+    masa_kerja: '16'
+    gaji: '2095400'
+    kenaikan: '1353000'
+  MGaji_281:
+    kode: '3217'
+    MPangkat: MPangkat_10
+    masa_kerja: '17'
+    gaji: '2095400'
+    kenaikan: '1353000'
+  MGaji_282:
+    kode: '3218'
+    MPangkat: MPangkat_10
+    masa_kerja: '18'
+    gaji: '2146900'
+    kenaikan: '1383300'
+  MGaji_283:
+    kode: '3219'
+    MPangkat: MPangkat_10
+    masa_kerja: '19'
+    gaji: '2146900'
+    kenaikan: '1383300'
+  MGaji_284:
+    kode: '3220'
+    MPangkat: MPangkat_10
+    masa_kerja: '20'
+    gaji: '2199600'
+    kenaikan: '1414400'
+  MGaji_285:
+    kode: '3221'
+    MPangkat: MPangkat_10
+    masa_kerja: '21'
+    gaji: '2199600'
+    kenaikan: '1414400'
+  MGaji_286:
+    kode: '3222'
+    MPangkat: MPangkat_10
+    masa_kerja: '22'
+    gaji: '2253600'
+    kenaikan: '1446200'
+  MGaji_287:
+    kode: '3223'
+    MPangkat: MPangkat_10
+    masa_kerja: '23'
+    gaji: '2253600'
+    kenaikan: '1446200'
+  MGaji_288:
+    kode: '3224'
+    MPangkat: MPangkat_10
+    masa_kerja: '24'
+    gaji: '2308900'
+    kenaikan: '1478700'
+  MGaji_289:
+    kode: '3225'
+    MPangkat: MPangkat_10
+    masa_kerja: '25'
+    gaji: '2308900'
+    kenaikan: '1478700'
+  MGaji_290:
+    kode: '3226'
+    MPangkat: MPangkat_10
+    masa_kerja: '26'
+    gaji: '2365600'
+    kenaikan: '1512000'
+  MGaji_291:
+    kode: '3227'
+    MPangkat: MPangkat_10
+    masa_kerja: '27'
+    gaji: '2365600'
+    kenaikan: '1512000'
+  MGaji_292:
+    kode: '3228'
+    MPangkat: MPangkat_10
+    masa_kerja: '28'
+    gaji: '2423600'
+    kenaikan: '1545900'
+  MGaji_293:
+    kode: '3229'
+    MPangkat: MPangkat_10
+    masa_kerja: '29'
+    gaji: '2423600'
+    kenaikan: '1545900'
+  MGaji_294:
+    kode: '3230'
+    MPangkat: MPangkat_10
+    masa_kerja: '30'
+    gaji: '2483100'
+    kenaikan: '1580700'
+  MGaji_295:
+    kode: '3231'
+    MPangkat: MPangkat_10
+    masa_kerja: '31'
+    gaji: '2483100'
+    kenaikan: '1514800'
+  MGaji_296:
+    kode: '3232'
+    MPangkat: MPangkat_10
+    masa_kerja: '32'
+    gaji: '2544100'
+    kenaikan: '1616300'
+  MGaji_297:
+    kode: '330'
+    MPangkat: MPangkat_11
+    masa_kerja: '0'
+    gaji: '1798900'
+    kenaikan: '1180400'
+  MGaji_298:
+    kode: '331'
+    MPangkat: MPangkat_11
+    masa_kerja: '1'
+    gaji: '1798900'
+    kenaikan: '1180400'
+  MGaji_299:
+    kode: '332'
+    MPangkat: MPangkat_11
+    masa_kerja: '2'
+    gaji: '1843000'
+    kenaikan: '1206900'
+  MGaji_300:
+    kode: '333'
+    MPangkat: MPangkat_11
+    masa_kerja: '3'
+    gaji: '1843000'
+    kenaikan: '1206900'
+  MGaji_301:
+    kode: '334'
+    MPangkat: MPangkat_11
+    masa_kerja: '4'
+    gaji: '1888300'
+    kenaikan: '1234100'
+  MGaji_302:
+    kode: '335'
+    MPangkat: MPangkat_11
+    masa_kerja: '5'
+    gaji: '1888300'
+    kenaikan: '1234100'
+  MGaji_303:
+    kode: '336'
+    MPangkat: MPangkat_11
+    masa_kerja: '6'
+    gaji: '1934600'
+    kenaikan: '1261800'
+  MGaji_304:
+    kode: '337'
+    MPangkat: MPangkat_11
+    masa_kerja: '7'
+    gaji: '1934600'
+    kenaikan: '1261800'
+  MGaji_305:
+    kode: '338'
+    MPangkat: MPangkat_11
+    masa_kerja: '8'
+    gaji: '1982100'
+    kenaikan: '1290200'
+  MGaji_306:
+    kode: '339'
+    MPangkat: MPangkat_11
+    masa_kerja: '9'
+    gaji: '1982100'
+    kenaikan: '1290200'
+  MGaji_307:
+    kode: '3310'
+    MPangkat: MPangkat_11
+    masa_kerja: '10'
+    gaji: '2030800'
+    kenaikan: '1319100'
+  MGaji_308:
+    kode: '3311'
+    MPangkat: MPangkat_11
+    masa_kerja: '11'
+    gaji: '2030800'
+    kenaikan: '1319100'
+  MGaji_309:
+    kode: '3312'
+    MPangkat: MPangkat_11
+    masa_kerja: '12'
+    gaji: '2080600'
+    kenaikan: '1348800'
+  MGaji_310:
+    kode: '3313'
+    MPangkat: MPangkat_11
+    masa_kerja: '13'
+    gaji: '2080600'
+    kenaikan: '1348800'
+  MGaji_311:
+    kode: '3314'
+    MPangkat: MPangkat_11
+    masa_kerja: '14'
+    gaji: '2131700'
+    kenaikan: '1379100'
+  MGaji_312:
+    kode: '3315'
+    MPangkat: MPangkat_11
+    masa_kerja: '15'
+    gaji: '2131700'
+    kenaikan: '1379100'
+  MGaji_313:
+    kode: '3316'
+    MPangkat: MPangkat_11
+    masa_kerja: '16'
+    gaji: '2184100'
+    kenaikan: '1410200'
+  MGaji_314:
+    kode: '3317'
+    MPangkat: MPangkat_11
+    masa_kerja: '17'
+    gaji: '2184100'
+    kenaikan: '1410200'
+  MGaji_315:
+    kode: '3318'
+    MPangkat: MPangkat_11
+    masa_kerja: '18'
+    gaji: '2237700'
+    kenaikan: '1441800'
+  MGaji_316:
+    kode: '3319'
+    MPangkat: MPangkat_11
+    masa_kerja: '19'
+    gaji: '2237700'
+    kenaikan: '1441800'
+  MGaji_317:
+    kode: '3320'
+    MPangkat: MPangkat_11
+    masa_kerja: '20'
+    gaji: '2292600'
+    kenaikan: '1474200'
+  MGaji_318:
+    kode: '3321'
+    MPangkat: MPangkat_11
+    masa_kerja: '21'
+    gaji: '2292600'
+    kenaikan: '1474200'
+  MGaji_319:
+    kode: '3322'
+    MPangkat: MPangkat_11
+    masa_kerja: '22'
+    gaji: '2348900'
+    kenaikan: '1507400'
+  MGaji_320:
+    kode: '3323'
+    MPangkat: MPangkat_11
+    masa_kerja: '23'
+    gaji: '2348900'
+    kenaikan: '1507400'
+  MGaji_321:
+    kode: '3324'
+    MPangkat: MPangkat_11
+    masa_kerja: '24'
+    gaji: '2406500'
+    kenaikan: '1541300'
+  MGaji_322:
+    kode: '3325'
+    MPangkat: MPangkat_11
+    masa_kerja: '25'
+    gaji: '2406500'
+    kenaikan: '1541300'
+  MGaji_323:
+    kode: '3326'
+    MPangkat: MPangkat_11
+    masa_kerja: '26'
+    gaji: '2465600'
+    kenaikan: '1575900'
+  MGaji_324:
+    kode: '3327'
+    MPangkat: MPangkat_11
+    masa_kerja: '27'
+    gaji: '2465600'
+    kenaikan: '1575900'
+  MGaji_325:
+    kode: '3328'
+    MPangkat: MPangkat_11
+    masa_kerja: '28'
+    gaji: '2526200'
+    kenaikan: '1611300'
+  MGaji_326:
+    kode: '3329'
+    MPangkat: MPangkat_11
+    masa_kerja: '29'
+    gaji: '2526200'
+    kenaikan: '1611300'
+  MGaji_327:
+    kode: '3330'
+    MPangkat: MPangkat_11
+    masa_kerja: '30'
+    gaji: '2588200'
+    kenaikan: '1647600'
+  MGaji_328:
+    kode: '3331'
+    MPangkat: MPangkat_11
+    masa_kerja: '31'
+    gaji: '2588200'
+    kenaikan: '1647600'
+  MGaji_329:
+    kode: '3332'
+    MPangkat: MPangkat_11
+    masa_kerja: '32'
+    gaji: '2651700'
+    kenaikan: '1684700'
+  MGaji_330:
+    kode: '340'
+    MPangkat: MPangkat_12
+    masa_kerja: '0'
+    gaji: '1875000'
+    kenaikan: '1230300'
+  MGaji_331:
+    kode: '341'
+    MPangkat: MPangkat_12
+    masa_kerja: '1'
+    gaji: '1875000'
+    kenaikan: '1230300'
+  MGaji_332:
+    kode: '342'
+    MPangkat: MPangkat_12
+    masa_kerja: '2'
+    gaji: '1921000'
+    kenaikan: '1258100'
+  MGaji_333:
+    kode: '343'
+    MPangkat: MPangkat_12
+    masa_kerja: '3'
+    gaji: '1921000'
+    kenaikan: '1258100'
+  MGaji_334:
+    kode: '344'
+    MPangkat: MPangkat_12
+    masa_kerja: '4'
+    gaji: '1968200'
+    kenaikan: '1286300'
+  MGaji_335:
+    kode: '345'
+    MPangkat: MPangkat_12
+    masa_kerja: '5'
+    gaji: '1968200'
+    kenaikan: '1286300'
+  MGaji_336:
+    kode: '346'
+    MPangkat: MPangkat_12
+    masa_kerja: '6'
+    gaji: '2016500'
+    kenaikan: '1315200'
+  MGaji_337:
+    kode: '347'
+    MPangkat: MPangkat_12
+    masa_kerja: '7'
+    gaji: '2016500'
+    kenaikan: '1315200'
+  MGaji_338:
+    kode: '348'
+    MPangkat: MPangkat_12
+    masa_kerja: '8'
+    gaji: '2066000'
+    kenaikan: '1344800'
+  MGaji_339:
+    kode: '349'
+    MPangkat: MPangkat_12
+    masa_kerja: '9'
+    gaji: '2066000'
+    kenaikan: '1344800'
+  MGaji_340:
+    kode: '3410'
+    MPangkat: MPangkat_12
+    masa_kerja: '10'
+    gaji: '2116700'
+    kenaikan: '1375100'
+  MGaji_341:
+    kode: '3411'
+    MPangkat: MPangkat_12
+    masa_kerja: '11'
+    gaji: '2116700'
+    kenaikan: '1375100'
+  MGaji_342:
+    kode: '3412'
+    MPangkat: MPangkat_12
+    masa_kerja: '12'
+    gaji: '2168700'
+    kenaikan: '1405800'
+  MGaji_343:
+    kode: '3413'
+    MPangkat: MPangkat_12
+    masa_kerja: '13'
+    gaji: '2168700'
+    kenaikan: '1405800'
+  MGaji_344:
+    kode: '3414'
+    MPangkat: MPangkat_12
+    masa_kerja: '14'
+    gaji: '2221900'
+    kenaikan: '1437500'
+  MGaji_345:
+    kode: '3415'
+    MPangkat: MPangkat_12
+    masa_kerja: '15'
+    gaji: '2221900'
+    kenaikan: '1437500'
+  MGaji_346:
+    kode: '3416'
+    MPangkat: MPangkat_12
+    masa_kerja: '16'
+    gaji: '2276400'
+    kenaikan: '1469900'
+  MGaji_347:
+    kode: '3417'
+    MPangkat: MPangkat_12
+    masa_kerja: '17'
+    gaji: '2276400'
+    kenaikan: '1469900'
+  MGaji_348:
+    kode: '3418'
+    MPangkat: MPangkat_12
+    masa_kerja: '18'
+    gaji: '2332300'
+    kenaikan: '1502900'
+  MGaji_349:
+    kode: '3419'
+    MPangkat: MPangkat_12
+    masa_kerja: '19'
+    gaji: '2332300'
+    kenaikan: '1502900'
+  MGaji_350:
+    kode: '3420'
+    MPangkat: MPangkat_12
+    masa_kerja: '20'
+    gaji: '2389600'
+    kenaikan: '1536600'
+  MGaji_351:
+    kode: '3421'
+    MPangkat: MPangkat_12
+    masa_kerja: '21'
+    gaji: '2389600'
+    kenaikan: '1536600'
+  MGaji_352:
+    kode: '3422'
+    MPangkat: MPangkat_12
+    masa_kerja: '22'
+    gaji: '2448200'
+    kenaikan: '1571100'
+  MGaji_353:
+    kode: '3423'
+    MPangkat: MPangkat_12
+    masa_kerja: '23'
+    gaji: '2448200'
+    kenaikan: '1571100'
+  MGaji_354:
+    kode: '3424'
+    MPangkat: MPangkat_12
+    masa_kerja: '24'
+    gaji: '2508300'
+    kenaikan: '1606500'
+  MGaji_355:
+    kode: '3425'
+    MPangkat: MPangkat_12
+    masa_kerja: '25'
+    gaji: '2508300'
+    kenaikan: '1606500'
+  MGaji_356:
+    kode: '3426'
+    MPangkat: MPangkat_12
+    masa_kerja: '26'
+    gaji: '2569900'
+    kenaikan: '1642700'
+  MGaji_357:
+    kode: '3427'
+    MPangkat: MPangkat_12
+    masa_kerja: '27'
+    gaji: '2569900'
+    kenaikan: '1642700'
+  MGaji_358:
+    kode: '3428'
+    MPangkat: MPangkat_12
+    masa_kerja: '28'
+    gaji: '2633000'
+    kenaikan: '1679400'
+  MGaji_359:
+    kode: '3429'
+    MPangkat: MPangkat_12
+    masa_kerja: '29'
+    gaji: '2633000'
+    kenaikan: '1679400'
+  MGaji_360:
+    kode: '3430'
+    MPangkat: MPangkat_12
+    masa_kerja: '30'
+    gaji: '2697600'
+    kenaikan: '1717200'
+  MGaji_361:
+    kode: '3431'
+    MPangkat: MPangkat_12
+    masa_kerja: '31'
+    gaji: '2697600'
+    kenaikan: '1717200'
+  MGaji_362:
+    kode: '3432'
+    MPangkat: MPangkat_12
+    masa_kerja: '32'
+    gaji: '2763900'
+    kenaikan: '1755900'
+  MGaji_363:
+    kode: '410'
+    MPangkat: MPangkat_13
+    masa_kerja: '0'
+    gaji: '1954300'
+    kenaikan: '1282400'
+  MGaji_364:
+    kode: '411'
+    MPangkat: MPangkat_13
+    masa_kerja: '1'
+    gaji: '1954300'
+    kenaikan: '1282400'
+  MGaji_365:
+    kode: '412'
+    MPangkat: MPangkat_13
+    masa_kerja: '2'
+    gaji: '2002300'
+    kenaikan: '1311200'
+  MGaji_366:
+    kode: '413'
+    MPangkat: MPangkat_13
+    masa_kerja: '3'
+    gaji: '2002300'
+    kenaikan: '1311200'
+  MGaji_367:
+    kode: '414'
+    MPangkat: MPangkat_13
+    masa_kerja: '4'
+    gaji: '2051400'
+    kenaikan: '1340700'
+  MGaji_368:
+    kode: '415'
+    MPangkat: MPangkat_13
+    masa_kerja: '5'
+    gaji: '2051400'
+    kenaikan: '1340700'
+  MGaji_369:
+    kode: '416'
+    MPangkat: MPangkat_13
+    masa_kerja: '6'
+    gaji: '2101800'
+    kenaikan: '1370900'
+  MGaji_370:
+    kode: '417'
+    MPangkat: MPangkat_13
+    masa_kerja: '7'
+    gaji: '2101800'
+    kenaikan: '1370900'
+  MGaji_371:
+    kode: '418'
+    MPangkat: MPangkat_13
+    masa_kerja: '8'
+    gaji: '2153400'
+    kenaikan: '1401600'
+  MGaji_372:
+    kode: '419'
+    MPangkat: MPangkat_13
+    masa_kerja: '9'
+    gaji: '2153400'
+    kenaikan: '1401600'
+  MGaji_373:
+    kode: '4110'
+    MPangkat: MPangkat_13
+    masa_kerja: '10'
+    gaji: '2206200'
+    kenaikan: '1433100'
+  MGaji_374:
+    kode: '4111'
+    MPangkat: MPangkat_13
+    masa_kerja: '11'
+    gaji: '2206200'
+    kenaikan: '1433100'
+  MGaji_375:
+    kode: '4112'
+    MPangkat: MPangkat_13
+    masa_kerja: '12'
+    gaji: '2260400'
+    kenaikan: '1465400'
+  MGaji_376:
+    kode: '4113'
+    MPangkat: MPangkat_13
+    masa_kerja: '13'
+    gaji: '2260400'
+    kenaikan: '1465200'
+  MGaji_377:
+    kode: '4114'
+    MPangkat: MPangkat_13
+    masa_kerja: '14'
+    gaji: '2315900'
+    kenaikan: '1498200'
+  MGaji_378:
+    kode: '4115'
+    MPangkat: MPangkat_13
+    masa_kerja: '15'
+    gaji: '2315900'
+    kenaikan: '1498200'
+  MGaji_379:
+    kode: '4116'
+    MPangkat: MPangkat_13
+    masa_kerja: '16'
+    gaji: '2372700'
+    kenaikan: '1532000'
+  MGaji_380:
+    kode: '4117'
+    MPangkat: MPangkat_13
+    masa_kerja: '17'
+    gaji: '2372700'
+    kenaikan: '1532000'
+  MGaji_381:
+    kode: '4118'
+    MPangkat: MPangkat_13
+    masa_kerja: '18'
+    gaji: '2431000'
+    kenaikan: '1566500'
+  MGaji_382:
+    kode: '4119'
+    MPangkat: MPangkat_13
+    masa_kerja: '19'
+    gaji: '2431000'
+    kenaikan: '1566500'
+  MGaji_383:
+    kode: '4120'
+    MPangkat: MPangkat_13
+    masa_kerja: '20'
+    gaji: '2490700'
+    kenaikan: '1601600'
+  MGaji_384:
+    kode: '4121'
+    MPangkat: MPangkat_13
+    masa_kerja: '21'
+    gaji: '2490700'
+    kenaikan: '1601600'
+  MGaji_385:
+    kode: '4122'
+    MPangkat: MPangkat_13
+    masa_kerja: '22'
+    gaji: '2551800'
+    kenaikan: '1637600'
+  MGaji_386:
+    kode: '4123'
+    MPangkat: MPangkat_13
+    masa_kerja: '23'
+    gaji: '2551800'
+    kenaikan: '1637600'
+  MGaji_387:
+    kode: '4124'
+    MPangkat: MPangkat_13
+    masa_kerja: '24'
+    gaji: '2614400'
+    kenaikan: '1674500'
+  MGaji_388:
+    kode: '4125'
+    MPangkat: MPangkat_13
+    masa_kerja: '25'
+    gaji: '2614400'
+    kenaikan: '1674500'
+  MGaji_389:
+    kode: '4126'
+    MPangkat: MPangkat_13
+    masa_kerja: '26'
+    gaji: '2678600'
+    kenaikan: '1712100'
+  MGaji_390:
+    kode: '4127'
+    MPangkat: MPangkat_13
+    masa_kerja: '27'
+    gaji: '2678600'
+    kenaikan: '1712100'
+  MGaji_391:
+    kode: '4128'
+    MPangkat: MPangkat_13
+    masa_kerja: '28'
+    gaji: '2744400'
+    kenaikan: '1750500'
+  MGaji_392:
+    kode: '4129'
+    MPangkat: MPangkat_13
+    masa_kerja: '29'
+    gaji: '2744400'
+    kenaikan: '1750500'
+  MGaji_393:
+    kode: '4130'
+    MPangkat: MPangkat_13
+    masa_kerja: '30'
+    gaji: '2811800'
+    kenaikan: '1789800'
+  MGaji_394:
+    kode: '4131'
+    MPangkat: MPangkat_13
+    masa_kerja: '31'
+    gaji: '2811800'
+    kenaikan: '1789800'
+  MGaji_395:
+    kode: '4132'
+    MPangkat: MPangkat_13
+    masa_kerja: '32'
+    gaji: '2880800'
+    kenaikan: '1830200'
+  MGaji_396:
+    kode: '420'
+    MPangkat: MPangkat_14
+    masa_kerja: '0'
+    gaji: '2036900'
+    kenaikan: '1336700'
+  MGaji_397:
+    kode: '421'
+    MPangkat: MPangkat_14
+    masa_kerja: '1'
+    gaji: '2036900'
+    kenaikan: '1336700'
+  MGaji_398:
+    kode: '422'
+    MPangkat: MPangkat_14
+    masa_kerja: '2'
+    gaji: '2086900'
+    kenaikan: '1366700'
+  MGaji_399:
+    kode: '423'
+    MPangkat: MPangkat_14
+    masa_kerja: '3'
+    gaji: '2086900'
+    kenaikan: '1366700'
+  MGaji_400:
+    kode: '424'
+    MPangkat: MPangkat_14
+    masa_kerja: '4'
+    gaji: '2138200'
+    kenaikan: '1397400'
+  MGaji_401:
+    kode: '425'
+    MPangkat: MPangkat_14
+    masa_kerja: '5'
+    gaji: '2138200'
+    kenaikan: '1397400'
+  MGaji_402:
+    kode: '426'
+    MPangkat: MPangkat_14
+    masa_kerja: '6'
+    gaji: '2190700'
+    kenaikan: '1428800'
+  MGaji_403:
+    kode: '427'
+    MPangkat: MPangkat_14
+    masa_kerja: '7'
+    gaji: '2190700'
+    kenaikan: '1428800'
+  MGaji_404:
+    kode: '428'
+    MPangkat: MPangkat_14
+    masa_kerja: '8'
+    gaji: '2244500'
+    kenaikan: '1461000'
+  MGaji_405:
+    kode: '429'
+    MPangkat: MPangkat_14
+    masa_kerja: '9'
+    gaji: '2244500'
+    kenaikan: '1461000'
+  MGaji_406:
+    kode: '4210'
+    MPangkat: MPangkat_14
+    masa_kerja: '10'
+    gaji: '2299500'
+    kenaikan: '1493900'
+  MGaji_407:
+    kode: '4211'
+    MPangkat: MPangkat_14
+    masa_kerja: '11'
+    gaji: '2299500'
+    kenaikan: '1493900'
+  MGaji_408:
+    kode: '4212'
+    MPangkat: MPangkat_14
+    masa_kerja: '12'
+    gaji: '2356000'
+    kenaikan: '1527300'
+  MGaji_409:
+    kode: '4213'
+    MPangkat: MPangkat_14
+    masa_kerja: '13'
+    gaji: '2356000'
+    kenaikan: '1527300'
+  MGaji_410:
+    kode: '4214'
+    MPangkat: MPangkat_14
+    masa_kerja: '14'
+    gaji: '2413800'
+    kenaikan: '1561700'
+  MGaji_411:
+    kode: '4215'
+    MPangkat: MPangkat_14
+    masa_kerja: '15'
+    gaji: '2413800'
+    kenaikan: '1561700'
+  MGaji_412:
+    kode: '4216'
+    MPangkat: MPangkat_14
+    masa_kerja: '16'
+    gaji: '2473100'
+    kenaikan: '1596800'
+  MGaji_413:
+    kode: '4217'
+    MPangkat: MPangkat_14
+    masa_kerja: '17'
+    gaji: '2473100'
+    kenaikan: '1596800'
+  MGaji_414:
+    kode: '4218'
+    MPangkat: MPangkat_14
+    masa_kerja: '18'
+    gaji: '2533800'
+    kenaikan: '1632600'
+  MGaji_415:
+    kode: '4219'
+    MPangkat: MPangkat_14
+    masa_kerja: '19'
+    gaji: '2533800'
+    kenaikan: '1632600'
+  MGaji_416:
+    kode: '4220'
+    MPangkat: MPangkat_14
+    masa_kerja: '20'
+    gaji: '2596000'
+    kenaikan: '1669400'
+  MGaji_417:
+    kode: '4221'
+    MPangkat: MPangkat_14
+    masa_kerja: '21'
+    gaji: '2596000'
+    kenaikan: '1669400'
+  MGaji_418:
+    kode: '4222'
+    MPangkat: MPangkat_14
+    masa_kerja: '22'
+    gaji: '2659700'
+    kenaikan: '1707000'
+  MGaji_419:
+    kode: '4223'
+    MPangkat: MPangkat_14
+    masa_kerja: '23'
+    gaji: '2659700'
+    kenaikan: '1707000'
+  MGaji_420:
+    kode: '4224'
+    MPangkat: MPangkat_14
+    masa_kerja: '24'
+    gaji: '2725000'
+    kenaikan: '1745300'
+  MGaji_421:
+    kode: '4225'
+    MPangkat: MPangkat_14
+    masa_kerja: '25'
+    gaji: '2725000'
+    kenaikan: '1745300'
+  MGaji_422:
+    kode: '4226'
+    MPangkat: MPangkat_14
+    masa_kerja: '26'
+    gaji: '2791900'
+    kenaikan: '1784400'
+  MGaji_423:
+    kode: '4227'
+    MPangkat: MPangkat_14
+    masa_kerja: '27'
+    gaji: '2791900'
+    kenaikan: '1784400'
+  MGaji_424:
+    kode: '4228'
+    MPangkat: MPangkat_14
+    masa_kerja: '28'
+    gaji: '2860500'
+    kenaikan: '1824600'
+  MGaji_425:
+    kode: '4229'
+    MPangkat: MPangkat_14
+    masa_kerja: '29'
+    gaji: '2860500'
+    kenaikan: '1824600'
+  MGaji_426:
+    kode: '4230'
+    MPangkat: MPangkat_14
+    masa_kerja: '30'
+    gaji: '2930700'
+    kenaikan: '1865600'
+  MGaji_427:
+    kode: '4231'
+    MPangkat: MPangkat_14
+    masa_kerja: '31'
+    gaji: '2930700'
+    kenaikan: '1865600'
+  MGaji_428:
+    kode: '4232'
+    MPangkat: MPangkat_14
+    masa_kerja: '32'
+    gaji: '3002600'
+    kenaikan: '1907600'
+  MGaji_429:
+    kode: '4300'
+    MPangkat: MPangkat_15
+    masa_kerja: '0'
+    gaji: '2123100'
+    kenaikan: '1393200'
+  MGaji_430:
+    kode: '4301'
+    MPangkat: MPangkat_15
+    masa_kerja: '1'
+    gaji: '2123100'
+    kenaikan: '1393200'
+  MGaji_431:
+    kode: '4302'
+    MPangkat: MPangkat_15
+    masa_kerja: '2'
+    gaji: '2175200'
+    kenaikan: '1424400'
+  MGaji_432:
+    kode: '4303'
+    MPangkat: MPangkat_15
+    masa_kerja: '3'
+    gaji: '2175200'
+    kenaikan: '1424400'
+  MGaji_433:
+    kode: '4304'
+    MPangkat: MPangkat_15
+    masa_kerja: '4'
+    gaji: '2228600'
+    kenaikan: '1456500'
+  MGaji_434:
+    kode: '4305'
+    MPangkat: MPangkat_15
+    masa_kerja: '5'
+    gaji: '2228600'
+    kenaikan: '1456500'
+  MGaji_435:
+    kode: '4306'
+    MPangkat: MPangkat_15
+    masa_kerja: '6'
+    gaji: '2283300'
+    kenaikan: '1489200'
+  MGaji_436:
+    kode: '4307'
+    MPangkat: MPangkat_15
+    masa_kerja: '7'
+    gaji: '2283300'
+    kenaikan: '1489200'
+  MGaji_437:
+    kode: '4308'
+    MPangkat: MPangkat_15
+    masa_kerja: '8'
+    gaji: '2339400'
+    kenaikan: '1522800'
+  MGaji_438:
+    kode: '4309'
+    MPangkat: MPangkat_15
+    masa_kerja: '9'
+    gaji: '2339400'
+    kenaikan: '1522800'
+  MGaji_439:
+    kode: '4310'
+    MPangkat: MPangkat_15
+    masa_kerja: '10'
+    gaji: '2396800'
+    kenaikan: '1557000'
+  MGaji_440:
+    kode: '4311'
+    MPangkat: MPangkat_15
+    masa_kerja: '11'
+    gaji: '2396800'
+    kenaikan: '1557000'
+  MGaji_441:
+    kode: '4312'
+    MPangkat: MPangkat_15
+    masa_kerja: '12'
+    gaji: '2455700'
+    kenaikan: '1592000'
+  MGaji_442:
+    kode: '4313'
+    MPangkat: MPangkat_15
+    masa_kerja: '13'
+    gaji: '2455700'
+    kenaikan: '1592000'
+  MGaji_443:
+    kode: '4314'
+    MPangkat: MPangkat_15
+    masa_kerja: '14'
+    gaji: '2515900'
+    kenaikan: '1627800'
+  MGaji_444:
+    kode: '4315'
+    MPangkat: MPangkat_15
+    masa_kerja: '15'
+    gaji: '2515900'
+    kenaikan: '1627800'
+  MGaji_445:
+    kode: '4316'
+    MPangkat: MPangkat_15
+    masa_kerja: '16'
+    gaji: '2577700'
+    kenaikan: '1664400'
+  MGaji_446:
+    kode: '4317'
+    MPangkat: MPangkat_15
+    masa_kerja: '17'
+    gaji: '2577700'
+    kenaikan: '1664400'
+  MGaji_447:
+    kode: '4318'
+    MPangkat: MPangkat_15
+    masa_kerja: '18'
+    gaji: '2641000'
+    kenaikan: '1701800'
+  MGaji_448:
+    kode: '4319'
+    MPangkat: MPangkat_15
+    masa_kerja: '19'
+    gaji: '2641000'
+    kenaikan: '1701800'
+  MGaji_449:
+    kode: '4320'
+    MPangkat: MPangkat_15
+    masa_kerja: '20'
+    gaji: '2705800'
+    kenaikan: '1740000'
+  MGaji_450:
+    kode: '4321'
+    MPangkat: MPangkat_15
+    masa_kerja: '21'
+    gaji: '2705800'
+    kenaikan: '1740000'
+  MGaji_451:
+    kode: '4322'
+    MPangkat: MPangkat_15
+    masa_kerja: '22'
+    gaji: '2772200'
+    kenaikan: '1779200'
+  MGaji_452:
+    kode: '4323'
+    MPangkat: MPangkat_15
+    masa_kerja: '23'
+    gaji: '2772200'
+    kenaikan: '1779200'
+  MGaji_453:
+    kode: '4324'
+    MPangkat: MPangkat_15
+    masa_kerja: '24'
+    gaji: '2840300'
+    kenaikan: '1819200'
+  MGaji_454:
+    kode: '4325'
+    MPangkat: MPangkat_15
+    masa_kerja: '25'
+    gaji: '2840300'
+    kenaikan: '1819200'
+  MGaji_455:
+    kode: '4326'
+    MPangkat: MPangkat_15
+    masa_kerja: '26'
+    gaji: '2910000'
+    kenaikan: '1860000'
+  MGaji_456:
+    kode: '4327'
+    MPangkat: MPangkat_15
+    masa_kerja: '27'
+    gaji: '2910000'
+    kenaikan: '1860000'
+  MGaji_457:
+    kode: '4328'
+    MPangkat: MPangkat_15
+    masa_kerja: '28'
+    gaji: '2981500'
+    kenaikan: '1901900'
+  MGaji_458:
+    kode: '4329'
+    MPangkat: MPangkat_15
+    masa_kerja: '29'
+    gaji: '2981500'
+    kenaikan: '1901900'
+  MGaji_459:
+    kode: '4330'
+    MPangkat: MPangkat_15
+    masa_kerja: '30'
+    gaji: '3054700'
+    kenaikan: '1944600'
+  MGaji_460:
+    kode: '4331'
+    MPangkat: MPangkat_15
+    masa_kerja: '31'
+    gaji: '3054700'
+    kenaikan: '1944600'
+  MGaji_461:
+    kode: '4332'
+    MPangkat: MPangkat_15
+    masa_kerja: '32'
+    gaji: '3129600'
+    kenaikan: '1988400'
+  MGaji_462:
+    kode: '440'
+    MPangkat: MPangkat_16
+    masa_kerja: '0'
+    gaji: '2212900'
+    kenaikan: '1452200'
+  MGaji_463:
+    kode: '441'
+    MPangkat: MPangkat_16
+    masa_kerja: '1'
+    gaji: '2212900'
+    kenaikan: '1452200'
+  MGaji_464:
+    kode: '442'
+    MPangkat: MPangkat_16
+    masa_kerja: '2'
+    gaji: '2267200'
+    kenaikan: '1484900'
+  MGaji_465:
+    kode: '443'
+    MPangkat: MPangkat_16
+    masa_kerja: '3'
+    gaji: '2267200'
+    kenaikan: '1484900'
+  MGaji_466:
+    kode: '444'
+    MPangkat: MPangkat_16
+    masa_kerja: '4'
+    gaji: '2322900'
+    kenaikan: '1518200'
+  MGaji_467:
+    kode: '445'
+    MPangkat: MPangkat_16
+    masa_kerja: '5'
+    gaji: '2322900'
+    kenaikan: '1518200'
+  MGaji_468:
+    kode: '446'
+    MPangkat: MPangkat_16
+    masa_kerja: '6'
+    gaji: '2379900'
+    kenaikan: '1552200'
+  MGaji_469:
+    kode: '447'
+    MPangkat: MPangkat_16
+    masa_kerja: '7'
+    gaji: '2379900'
+    kenaikan: '1552200'
+  MGaji_470:
+    kode: '448'
+    MPangkat: MPangkat_16
+    masa_kerja: '8'
+    gaji: '2438300'
+    kenaikan: '1587200'
+  MGaji_471:
+    kode: '449'
+    MPangkat: MPangkat_16
+    masa_kerja: '9'
+    gaji: '2438300'
+    kenaikan: '1587200'
+  MGaji_472:
+    kode: '4410'
+    MPangkat: MPangkat_16
+    masa_kerja: '10'
+    gaji: '2498200'
+    kenaikan: '162290'
+  MGaji_473:
+    kode: '4411'
+    MPangkat: MPangkat_16
+    masa_kerja: '11'
+    gaji: '2498200'
+    kenaikan: '1622900'
+  MGaji_474:
+    kode: '4412'
+    MPangkat: MPangkat_16
+    masa_kerja: '12'
+    gaji: '2559500'
+    kenaikan: '1659300'
+  MGaji_475:
+    kode: '4413'
+    MPangkat: MPangkat_16
+    masa_kerja: '13'
+    gaji: '2559500'
+    kenaikan: '1659300'
+  MGaji_476:
+    kode: '4414'
+    MPangkat: MPangkat_16
+    masa_kerja: '14'
+    gaji: '2622400'
+    kenaikan: '1696700'
+  MGaji_477:
+    kode: '4415'
+    MPangkat: MPangkat_16
+    masa_kerja: '15'
+    gaji: '2622400'
+    kenaikan: '1696700'
+  MGaji_478:
+    kode: '4416'
+    MPangkat: MPangkat_16
+    masa_kerja: '16'
+    gaji: '2686700'
+    kenaikan: '1734800'
+  MGaji_479:
+    kode: '4417'
+    MPangkat: MPangkat_16
+    masa_kerja: '17'
+    gaji: '2686700'
+    kenaikan: '1734800'
+  MGaji_480:
+    kode: '4418'
+    MPangkat: MPangkat_16
+    masa_kerja: '18'
+    gaji: '2752700'
+    kenaikan: '1773800'
+  MGaji_481:
+    kode: '4419'
+    MPangkat: MPangkat_16
+    masa_kerja: '19'
+    gaji: '2752700'
+    kenaikan: '1773800'
+  MGaji_482:
+    kode: '4420'
+    MPangkat: MPangkat_16
+    masa_kerja: '20'
+    gaji: '2820300'
+    kenaikan: '1813700'
+  MGaji_483:
+    kode: '4421'
+    MPangkat: MPangkat_16
+    masa_kerja: '21'
+    gaji: '2820300'
+    kenaikan: '1713700'
+  MGaji_484:
+    kode: '4422'
+    MPangkat: MPangkat_16
+    masa_kerja: '22'
+    gaji: '2889500'
+    kenaikan: '1854500'
+  MGaji_485:
+    kode: '4423'
+    MPangkat: MPangkat_16
+    masa_kerja: '23'
+    gaji: '2889500'
+    kenaikan: '1854500'
+  MGaji_486:
+    kode: '4424'
+    MPangkat: MPangkat_16
+    masa_kerja: '24'
+    gaji: '2960400'
+    kenaikan: '1896000'
+  MGaji_487:
+    kode: '4425'
+    MPangkat: MPangkat_16
+    masa_kerja: '25'
+    gaji: '2960400'
+    kenaikan: '1896000'
+  MGaji_488:
+    kode: '4426'
+    MPangkat: MPangkat_16
+    masa_kerja: '26'
+    gaji: '3033100'
+    kenaikan: '1938600'
+  MGaji_489:
+    kode: '4427'
+    MPangkat: MPangkat_16
+    masa_kerja: '27'
+    gaji: '3033100'
+    kenaikan: '1938600'
+  MGaji_490:
+    kode: '4428'
+    MPangkat: MPangkat_16
+    masa_kerja: '28'
+    gaji: '3107600'
+    kenaikan: '1982400'
+  MGaji_491:
+    kode: '4429'
+    MPangkat: MPangkat_16
+    masa_kerja: '29'
+    gaji: '3107600'
+    kenaikan: '1982400'
+  MGaji_492:
+    kode: '4430'
+    MPangkat: MPangkat_16
+    masa_kerja: '30'
+    gaji: '3183900'
+    kenaikan: '2026800'
+  MGaji_493:
+    kode: '4431'
+    MPangkat: MPangkat_16
+    masa_kerja: '31'
+    gaji: '3183900'
+    kenaikan: '2026800'
+  MGaji_494:
+    kode: '4432'
+    MPangkat: MPangkat_16
+    masa_kerja: '32'
+    gaji: '3262000'
+    kenaikan: '2072400'
+  MGaji_495:
+    kode: '450'
+    MPangkat: MPangkat_17
+    masa_kerja: '0'
+    gaji: '2306500'
+    kenaikan: '1513500'
+  MGaji_496:
+    kode: '451'
+    MPangkat: MPangkat_17
+    masa_kerja: '1'
+    gaji: '2306500'
+    kenaikan: '1513500'
+  MGaji_497:
+    kode: '452'
+    MPangkat: MPangkat_17
+    masa_kerja: '2'
+    gaji: '2363100'
+    kenaikan: '1547600'
+  MGaji_498:
+    kode: '453'
+    MPangkat: MPangkat_17
+    masa_kerja: '3'
+    gaji: '2363100'
+    kenaikan: '1547600'
+  MGaji_499:
+    kode: '454'
+    MPangkat: MPangkat_17
+    masa_kerja: '4'
+    gaji: '2421200'
+    kenaikan: '1582400'
+  MGaji_500:
+    kode: '455'
+    MPangkat: MPangkat_17
+    masa_kerja: '5'
+    gaji: '2421200'
+    kenaikan: '1582400'
+  MGaji_501:
+    kode: '456'
+    MPangkat: MPangkat_17
+    masa_kerja: '6'
+    gaji: '2480600'
+    kenaikan: '1617900'
+  MGaji_502:
+    kode: '457'
+    MPangkat: MPangkat_17
+    masa_kerja: '7'
+    gaji: '2480600'
+    kenaikan: '1617900'
+  MGaji_503:
+    kode: '458'
+    MPangkat: MPangkat_17
+    masa_kerja: '8'
+    gaji: '2541500'
+    kenaikan: '1654200'
+  MGaji_504:
+    kode: '4509'
+    MPangkat: MPangkat_17
+    masa_kerja: '9'
+    gaji: '2541500'
+    kenaikan: '1654200'
+  MGaji_505:
+    kode: '4510'
+    MPangkat: MPangkat_17
+    masa_kerja: '10'
+    gaji: '2603900'
+    kenaikan: '1691400'
+  MGaji_506:
+    kode: '4511'
+    MPangkat: MPangkat_17
+    masa_kerja: '11'
+    gaji: '2603900'
+    kenaikan: '1691400'
+  MGaji_507:
+    kode: '4512'
+    MPangkat: MPangkat_17
+    masa_kerja: '12'
+    gaji: '2667800'
+    kenaikan: '1729500'
+  MGaji_508:
+    kode: '4513'
+    MPangkat: MPangkat_17
+    masa_kerja: '13'
+    gaji: '2667800'
+    kenaikan: '1729500'
+  MGaji_509:
+    kode: '4514'
+    MPangkat: MPangkat_17
+    masa_kerja: '14'
+    gaji: '2733300'
+    kenaikan: '1768400'
+  MGaji_510:
+    kode: '4515'
+    MPangkat: MPangkat_17
+    masa_kerja: '15'
+    gaji: '2733300'
+    kenaikan: '1768400'
+  MGaji_511:
+    kode: '4516'
+    MPangkat: MPangkat_17
+    masa_kerja: '16'
+    gaji: '2800400'
+    kenaikan: '1808100'
+  MGaji_512:
+    kode: '4517'
+    MPangkat: MPangkat_17
+    masa_kerja: '17'
+    gaji: '2800400'
+    kenaikan: '1808100'
+  MGaji_513:
+    kode: '4518'
+    MPangkat: MPangkat_17
+    masa_kerja: '18'
+    gaji: '2869100'
+    kenaikan: '1848800'
+  MGaji_514:
+    kode: '4519'
+    MPangkat: MPangkat_17
+    masa_kerja: '19'
+    gaji: '2869100'
+    kenaikan: '1848800'
+  MGaji_515:
+    kode: '4520'
+    MPangkat: MPangkat_17
+    masa_kerja: '20'
+    gaji: '2939600'
+    kenaikan: '1890300'
+  MGaji_516:
+    kode: '4521'
+    MPangkat: MPangkat_17
+    masa_kerja: '21'
+    gaji: '2939600'
+    kenaikan: '1890300'
+  MGaji_517:
+    kode: '4522'
+    MPangkat: MPangkat_17
+    masa_kerja: '22'
+    gaji: '3011700'
+    kenaikan: '1932900'
+  MGaji_518:
+    kode: '4523'
+    MPangkat: MPangkat_17
+    masa_kerja: '23'
+    gaji: '3011700'
+    kenaikan: '1932900'
+  MGaji_519:
+    kode: '4524'
+    MPangkat: MPangkat_17
+    masa_kerja: '24'
+    gaji: '3085700'
+    kenaikan: '1976400'
+  MGaji_520:
+    kode: '4525'
+    MPangkat: MPangkat_17
+    masa_kerja: '25'
+    gaji: '3085700'
+    kenaikan: '1976400'
+  MGaji_521:
+    kode: '4526'
+    MPangkat: MPangkat_17
+    masa_kerja: '26'
+    gaji: '3161400'
+    kenaikan: '2020800'
+  MGaji_522:
+    kode: '4527'
+    MPangkat: MPangkat_17
+    masa_kerja: '27'
+    gaji: '3161400'
+    kenaikan: '2020800'
+  MGaji_523:
+    kode: '4528'
+    MPangkat: MPangkat_17
+    masa_kerja: '28'
+    gaji: '3239000'
+    kenaikan: '2066100'
+  MGaji_524:
+    kode: '4529'
+    MPangkat: MPangkat_17
+    masa_kerja: '29'
+    gaji: '3239000'
+    kenaikan: '2066100'
+  MGaji_525:
+    kode: '4530'
+    MPangkat: MPangkat_17
+    masa_kerja: '30'
+    gaji: '3318500'
+    kenaikan: '2112600'
+  MGaji_526:
+    kode: '4531'
+    MPangkat: MPangkat_17
+    masa_kerja: '31'
+    gaji: '3318500'
+    kenaikan: '2112600'
+  MGaji_527:
+    kode: '4532'
+    MPangkat: MPangkat_17
+    masa_kerja: '32'
+    gaji: '3400000'
+    kenaikan: '2160000'

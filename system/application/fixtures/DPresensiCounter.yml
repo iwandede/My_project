@@ -1,0 +1,13 @@
+DPresensiCounter:
+  DPresensiCounter_1:
+    tipe: '1'
+    tanggal: '2011-08-03'
+    keterangan: 'a:4:{i:0;i:1;i:1;i:0;i:2;i:10;i:3;i:0;}'
+  DPresensiCounter_2:
+    tipe: '2'
+    tanggal: '2011-08-01'
+    keterangan: 'a:4:{i:0;i:1;i:1;i:0;i:2;i:307;i:3;i:44;}'
+  DPresensiCounter_3:
+    tipe: '3'
+    tanggal: '2011-01-01'
+    keterangan: 'a:4:{i:0;i:4;i:1;i:0;i:2;i:3453;i:3;i:569;}'

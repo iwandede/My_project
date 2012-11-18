@@ -1,0 +1,92 @@
+body {
+    background-color: #FDF5CE;
+    color: #666666;
+}
+
+a {
+    color: inherit;
+}
+
+hr {
+    border-color: #666666;
+}
+
+input, select.def, textarea {
+    background-color: #F9F9F9;
+    border: 1px solid #BBBBBB;
+}
+
+input[type=submit]:hover {
+    background-color: #E9E9E9;
+}
+
+table.data {    
+    border: 1px solid #DDDDDD;
+}
+
+table.data th {
+    border-right: 1px solid #DDDDDD;
+}
+
+table.data td {
+    border-right: 1px solid #DDDDDD;
+    border-top: 1px solid #DDDDDD;
+}
+
+#headers {
+    /*    background: url("../img/header_bg.gif") repeat-x scroll 0 0 transparent;*/
+    background-color: #282b2f;
+}
+
+#menu li li {
+    background: #333;
+}
+
+#menu li li a:hover {
+    background: #888;
+}
+
+#theme_links {
+    background-color: #777777;
+    background-image: -moz-linear-gradient(center bottom, #666666, #7F7F7F);
+    color: #DDDDDD;
+    font: 12px/28px Arial,Helvetica,sans-serif;
+}
+
+#header_links li, #theme_links li {
+    border-left: 1px solid #666666;
+}
+
+#header_links li:hover, #theme_links li:hover {
+    background-color: #333333;
+}
+
+#content {
+    background-color: #FFFFFF;
+}
+
+#footer {
+    background-color: #FFFFFF;
+}
+
+.info {
+    border: 1px solid #666666;
+}
+
+.screenshot_box {
+    border: 1px solid #CCCCCC;
+}
+
+.screenshot {
+    border: 1px solid #CCCCCC;
+}
+
+.error {
+    background-color: red;
+    color: #FFFFFF;
+}
+
+.success {
+    background-color: green;
+    color: #FFFFFF;
+}

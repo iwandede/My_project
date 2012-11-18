@@ -1,0 +1,13 @@
+MSatuanKerja:
+  MSatuanKerja_1:
+    kode_bidang: '1'
+    kode_unit: '1'
+    nama_unit_kerja: 'Deputy I'
+  MSatuanKerja_2:
+    kode_bidang: '2'
+    kode_unit: '2'
+    nama_unit_kerja: 'Deputy II'
+  MSatuanKerja_3:
+    kode_bidang: '1'
+    kode_unit: '1'
+    nama_unit_kerja: 'Bidang Inventarisasi dan Pengemb'

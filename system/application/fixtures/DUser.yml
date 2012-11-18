@@ -1,0 +1,61 @@
+DUser:
+  DUser_1:
+    username: admin
+    password: 'rahasia'
+    role: '1'
+    theme: '0'
+  DUser_2:
+    username: '010196667'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_3:
+    username: '010172752'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_4:
+    username: '010110336'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_5:
+    username: '050012488'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_6:
+    username: '010262015'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_7:
+    username: '050021744'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_8:
+    username: '050022372'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_9:
+    username: '050031074'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_10:
+    username: '060034376'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_11:
+    username: '060082861'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'
+  DUser_12:
+    username: '19830920 200901 1 004'
+    password: 'rahasia'
+    role: '0'
+    theme: '0'

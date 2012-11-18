@@ -1,0 +1,19 @@
+MPendidikanFormal:
+  MPendidikanFormal_1:
+    nama_pendidikan: 'Sekolah Dasar'
+  MPendidikanFormal_2:
+    nama_pendidikan: 'Sekolah Menengah Pertama'
+  MPendidikanFormal_3:
+    nama_pendidikan: 'Sekolah Menengah Atas'
+  MPendidikanFormal_4:
+    nama_pendidikan: 'Diploma 1'
+  MPendidikanFormal_5:
+    nama_pendidikan: 'Diploma 2'
+  MPendidikanFormal_6:
+    nama_pendidikan: 'Diploma 3'
+  MPendidikanFormal_7:
+    nama_pendidikan: 'Diploma 4/Strata 1'
+  MPendidikanFormal_8:
+    nama_pendidikan: 'Spesialis 1/Strata 2'
+  MPendidikanFormal_9:
+    nama_pendidikan: 'Spesialis 2/Strata 3'

@@ -1,0 +1,71 @@
+DRiwayatPangkat:
+  DRiwayatPangkat_1:
+    DPegawai: DPegawai_1
+    MPangkat: MPangkat_14
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2004-10-01'
+    obsolete: false
+  DRiwayatPangkat_2:
+    DPegawai: DPegawai_2
+    MPangkat: MPangkat_14
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2006-10-01'
+    obsolete: false
+  DRiwayatPangkat_3:
+    DPegawai: DPegawai_3
+    MPangkat: MPangkat_16
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2005-04-01'
+    obsolete: false
+  DRiwayatPangkat_4:
+    DPegawai: DPegawai_4
+    MPangkat: MPangkat_14
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2001-01-01'
+    obsolete: false
+  DRiwayatPangkat_5:
+    DPegawai: DPegawai_5
+    MPangkat: MPangkat_12
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2010-04-01'
+    obsolete: false
+  DRiwayatPangkat_6:
+    DPegawai: DPegawai_6
+    MPangkat: MPangkat_15
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2008-09-01'
+    obsolete: false
+  DRiwayatPangkat_7:
+    DPegawai: DPegawai_7
+    MPangkat: MPangkat_12
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2001-10-01'
+    obsolete: false
+  DRiwayatPangkat_8:
+    DPegawai: DPegawai_8
+    MPangkat: MPangkat_11
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2006-04-01'
+    obsolete: false
+  DRiwayatPangkat_9:
+    DPegawai: DPegawai_9
+    MPangkat: MPangkat_17
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2006-04-01'
+    obsolete: false
+  DRiwayatPangkat_10:
+    DPegawai: DPegawai_10
+    MPangkat: MPangkat_14
+    no_sk: ''
+    tanggal_sk: '0000-00-00'
+    tmt: '2010-10-01'
+    obsolete: false

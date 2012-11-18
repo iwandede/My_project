@@ -1,0 +1,13 @@
+DRiwayatJabatan:
+  DRiwayatJabatan_1:
+    DPegawai: DPegawai_1
+    MJabatan: MJabatan_1
+    no_sk: ''
+    tanggal_sk: '2011-07-13'
+    obsolete: false
+  DRiwayatJabatan_2:
+    DPegawai: DPegawai_2
+    MJabatan: MJabatan_2
+    no_sk: 'KEPMEN NO.18/K TAHUN 2010'
+    tanggal_sk: '2010-11-11'
+    obsolete: false

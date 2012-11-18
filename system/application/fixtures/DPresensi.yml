@@ -1,0 +1,37 @@
+DPresensi:
+  DPresensi_1:
+    tanggal: '2011-07-24'
+    DPegawai: DPegawai_1
+    status: '0'
+    masuk_j: '7'
+    masuk_m: '13'
+    keluar_j: '14'
+    keluar_m: '18'
+    keterangan: ''
+  DPresensi_2:
+    tanggal: '2011-07-24'
+    DPegawai: DPegawai_4
+    status: '0'
+    masuk_j: '7'
+    masuk_m: '13'
+    keluar_j: '14'
+    keluar_m: '23'
+    keterangan: ''
+  DPresensi_3:
+    tanggal: '2011-07-24'
+    DPegawai: DPegawai_3
+    status: '0'
+    masuk_j: '7'
+    masuk_m: '0'
+    keluar_j: '16'
+    keluar_m: '0'
+    keterangan: ''
+  DPresensi_4:
+    tanggal: '2011-08-03'
+    DPegawai: DPegawai_4
+    status: '0'
+    masuk_j: '7'
+    masuk_m: '0'
+    keluar_j: '16'
+    keluar_m: '0'
+    keterangan: ''

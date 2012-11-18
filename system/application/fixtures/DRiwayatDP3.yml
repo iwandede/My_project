@@ -1,0 +1,17 @@
+DRiwayatDP3:
+  DRiwayatDP3_1:
+    DPegawai: DPegawai_1
+    MJabatan: MJabatan_1
+    tanggal: '2011-07-12'
+    kesetiaan: '95'
+    prestasi: '80'
+    tanggung_jawab: '80'
+    ketaatan: '80'
+    kejujuran: '80'
+    kerja_sama: '80'
+    prakarsa: '95'
+    kepemimpinan: '90'
+    Penilai: DPegawai_5
+    PenilaiJabatan: MJabatan_1
+    AtasanPenilai: DPegawai_6
+    AtasanPenilaiJabatan: MJabatan_1
